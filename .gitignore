@@ -1,3 +1,8 @@
+# Project-specific files and locations
+
+_build/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -49,9 +54,6 @@ coverage.xml
 
 # Django stuff:
 *.log
-
-# Sphinx documentation
-docs/_build/
 
 # PyBuilder
 target/
