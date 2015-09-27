@@ -8,6 +8,17 @@ than any other game around.  This walkthrough, along with the
 :forums:`DF Starter Pack <126076>`, are my attempts to dangle a rope
 down, as the community first did for me years ago.
 
+.. warning::
+
+    This is a work in progress - it's not all updated from the
+    old tutorials this is based on, so many references are to
+    an outdated version of the game.
+
+    The instructions are mostly still useful, but screenshots may
+    look a bit different.  I suggest playing with the DF Starter
+    Pack, rather than the old tutorial save, so your world is
+    compatible.
+
 
 The Walkthrough
 ===============
@@ -40,7 +51,7 @@ Tutorials
 The walkthrough covers the topics you'll need in every fortress, in just
 enough detail to get you started.  After that, it's your decision what
 to focus on - the options are endless, from beekeeping to soap-making to
-digging too deep, or learning how to install or make mods for the game.
+digging too deep, or learning make and install mods of all kinds.
 
 Each tutorial is a short, self-contained introduction to a topic which is
 likely to be of interest to players who have just finished the walkthrough.

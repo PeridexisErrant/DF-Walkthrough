@@ -9,4 +9,4 @@ and fouler things than mere goblins in the deep places of the world.
 No tutorial is necessary for this one.  Just go down, through the cavern
 layers, and keep digging...
 
-*If you need :wiki:`SPOILERS, <hell>` click the link. You've been warned.*
+*If you need* :wiki:`spoilers, <hell>` *click that link. You've been warned.*
