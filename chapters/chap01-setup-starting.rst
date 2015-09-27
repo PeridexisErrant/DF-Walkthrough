@@ -15,9 +15,17 @@ So grab a drink, get your thinking cap on and be prepared for some dwarfy fun! A
 
 Set Up
 ======
-First things first. You need to grab a copy of the client. Lucky for you we’ve made that easy and the copy you’ll need for this tutorial is available from Sling File (temp not working) or mirrored at FileDropper and Mediafire.  Even if you’ve already got DF installed you should grab this version as it has the world and save file we’ll be working from for this tutorial. In case you’re wondering, this version includes a copy of MayDay’s Green tileset and it’s worth grabbing new versions of the tileset as the game is updated. I use that tileset as it’s a little easier to view than the pure ASCII of the original game.
 
-Next you need to unzip the folder on to your had drive. Then create a shortcut on your desktop (if you wish) leading to dwarfort.exe. While you’re at it, go into the DwarfManager folder and create a shortcut to DwarfManager.exe, we’ll need that later.
+.. note::
+
+    This tutorial uses a pre-configured install of DF, with a basic save generated for you and less extra stuff than general-purpose community packages.  It still includes graphics and UI upgrades, though!
+
+    :DFFD:`Download the walkthrough pack here. <11168>`
+    
+    Later, you might prefer to move your save over to the :DFFD:`Starter Pack <7622>`, to take advantage of all the other tools and options it offers - to suit everyone up to long-time players and DF experts.
+
+
+After downloading the pack, you need to unzip the folder on to your had drive. Then create a shortcut on your desktop (if you wish) leading to dwarfort.exe. While you’re at it, go into the DwarfManager folder and create a shortcut to DwarfManager.exe, we’ll need that later.
 
 Run the Game
 ============

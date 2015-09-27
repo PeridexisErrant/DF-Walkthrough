@@ -181,9 +181,9 @@ Behold! Triberiddle, the dog leather cap (click on the picture here if you can�
 .. image:: images/dftutorial95.png
    :align: center
 
-A nice hat depicting when one of the trade caravan guards shot a goblin. No one will wear it though, it’s an :wiki:`artefact`, only champions consider themselves important enough to grab artifacts from stock piles.
+A nice hat depicting when one of the trade caravan guards shot a goblin. No one will wear it though, it’s an :wiki:`artifact`, only champions consider themselves important enough to grab artifacts from stock piles.
 
-We were lucky this time with our moody dwarf. He was able to get everything he needed to make his artefact. If he couldn’t find it he would go quite crazy in the workshop, or if a suitable workshop isn’t available, in his room. When you see the dwarf start to go crazy (flashing down arrows and not moving from their workshop are a good sign) it’s time to either assign the dwarf some war dogs (more on that later) or to construct some walls and wall them in to their workshop, or to lock the door on their quarters. At some point the dwarf will go beserk and either get attacked by nearby military dwarfs or war dogs, or if locked inside, slowly starve to death.
+We were lucky this time with our moody dwarf. He was able to get everything he needed to make his artifact. If he couldn’t find it he would go quite crazy in the workshop, or if a suitable workshop isn’t available, in his room. When you see the dwarf start to go crazy (flashing down arrows and not moving from their workshop are a good sign) it’s time to either assign the dwarf some war dogs (more on that later) or to construct some walls and wall them in to their workshop, or to lock the door on their quarters. At some point the dwarf will go beserk and either get attacked by nearby military dwarfs or war dogs, or if locked inside, slowly starve to death.
 
 If the crazy dwarf is ignored they will destroy stuff and attack dwarfs, probably killing a couple before they are put down, so watch those moody stunties closely!
 

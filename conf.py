@@ -82,7 +82,7 @@ exclude_patterns = ['_build']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
-default_role = 'any'
+default_role = 'ref'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -100,9 +100,12 @@ extlinks = {
     'wiki': ('http://dwarffortresswiki.org/index.php/cv:%s', ''),
     'forums': ('http://www.bay12forums.com/smf/index.php?topic=%s',
                'Bay12 forums thread '),
-    'reddit': ('https://www.reddit.com/r/dwarffortress/comments/%s', '')
+    'reddit': ('https://www.reddit.com/r/dwarffortress/comments/%s', ''),
+    'dffd': ('http://dffd.bay12games.com/file.php?id=%s', 'DFFD file ')
 }
+# some aliases for link directives
 extlinks['forum'] = extlinks['forums']
+extlinks['DFFD'] = extlinks['dffd']
 
 # Example configuration for intersphinx: refer to the Python standard library.
 #intersphinx_mapping = {'https://docs.python.org/': None}
