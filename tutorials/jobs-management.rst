@@ -1,20 +1,9 @@
-#########################
-Dwarf Resource Management
-#########################
-
-.. note::
-
-    The DFHack plugin ``autolabor`` can do all this for you, so feel free
-    to activate it and skip this section.  It's useful if you want to play
-    without DFHack though (say just after a DF release), or for more
-    advanced management techniques.
-
-.. todo
-
-    Update this whole section, mention the ``manipulator`` script, etc.  Consider moving this to a tutorial and just leaving autolabor set by default.
+#####################
+Managing Dwarven Jobs
+#####################
 
 
-In Part 6 of this walkthrough we’ll look at managing our dwarfs, a topic we have ignored until now. Dwarf management isn’t that hard, but there’s lots of subtlety to it, as I’m sure you can imagine. You also have to learn to navigate the interface, which is its own special challenge!
+In this tutorial we’ll look at managing our dwarfs, a topic we have ignored until now. Dwarf management isn’t that hard, but there’s lots of subtlety to it, as I’m sure you can imagine. You also have to learn to navigate the interface, which is its own special challenge!
 
 So lets dive right in! In the end you will find managing your dwarfs well quite rewarding, trust me!
 
