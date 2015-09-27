@@ -150,7 +150,8 @@ He will take a short while to build your field. When you see the dwarf run off, 
 * Hit the “q” key. This is the key for “Set building tasks and preferences”. Again you’ll notice a cursor on the local screen and if it’s anywhere near the field, the field will be flashing. You can move that cursor around with your arrow keys, this is useful later on when you need to select different workshops and buildings.
 * You’ll note that on the right the menu now shows you specific task details associated with that field, like so:
 
-.. image:: images/dftutorial15
+.. image:: images/dftutorial15.png
+   :align: center
 
 * What we want to do is set “plump helmets” as the food to be planted every season. You can see on the top right of the menu we have the various plants we could try and grow and in the middle area we have the different seasons. Right now “Dimple cups” are selected (but not highlighted, note) and the season is set on “Spring”, as it’s Spring currently. We need to change these settings.
 * Now comes an important skill! Menu scrolling! Using “alt+arrow down”, scroll down through the list to “Plump helmets” and hit enter.  You should now see “Plump helmets” highlighted. By the way, if you don’t like this key configuration, hit escape when we’re done and re-bind the keys to your liking.
