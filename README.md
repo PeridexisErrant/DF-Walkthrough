@@ -6,5 +6,8 @@ Resources for people who want to play Dwarf Fortress, but can't yet.
 * Tutorials on specific topics for new players.
 * Lots of external links and advice.
 
-*This document is just a stub, to ensure something shows up on GitHub.*
-[*Check out the real index.*](./index.rst)
+[Check it out here!](https://df-walkthrough.readthedocs.org)
+
+If yuo're interested in contributing, I'd love a hand! The main priority is
+updating the walkthrough and moving non-core content to tutorials.  More
+tutorials would also be great!
