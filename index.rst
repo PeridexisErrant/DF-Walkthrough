@@ -71,7 +71,7 @@ About
 =====
 This is a sucessor project to `TinyPirate's tutorials
 <http://afteractionreporter.com/dwarf-fortress-tutorials/>`_,
-with :reddit:`his approval <368j7h>`.
+with :reddit:`his approval <368j7h>` for adaptation, reuse, and relicensing.
 
 It **does not** use vanilla Dwarf Fortress - DF as distributed by ToadyOne
 (the developer) - but embraces community mods, tools, and interface upgrades.
