@@ -115,4 +115,4 @@ That’s all for now, except before I go I have some **homework** for you. But d
 #. See if you can make some stone crafts. You will find them under the “rock” sub-menu from the “add task” menu on the craftsdwarf’s workshop. You better make sure you have lots of wood bins for your crafts to go in though, and a big “Finished goods” stockpile too!
 
 Good luck! And see you soon!
-    
+

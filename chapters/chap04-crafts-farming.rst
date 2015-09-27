@@ -146,4 +146,4 @@ That’s all for now. We’ve got traders in our trade depot and we need to sort
 
 Until then go make a bunch of crafts, get the booze flowing and wait on my return!
 
-    
+

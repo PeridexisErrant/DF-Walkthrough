@@ -4,7 +4,7 @@ WTF is happening?
 
 .. note::
 
-    This version is not the current build. You can still learn how to play DF with this tutorial and you will learn enough to play the new build. 
+    This version is not the current build. You can still learn how to play DF with this tutorial and you will learn enough to play the new build.
 
 
 Dwarf Fortress is an extremely interesting and complex game, but one which people find exceptionally difficult to get into. Although it isn’t hard to find tutorials, many assume some basic knowledge of the interface and what the player is looking at. They also don’t take into account different tilesets and versions and the difficulty new users have in finding a good site for that first fortress.
