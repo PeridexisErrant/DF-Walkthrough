@@ -2,6 +2,9 @@
 Managing Dwarven Jobs
 #####################
 
+.. warning::
+
+    This tutorial is based on an old version of DF, and needs to be updated.
 
 In this tutorial we’ll look at managing our dwarfs, a topic we have ignored until now. Dwarf management isn’t that hard, but there’s lots of subtlety to it, as I’m sure you can imagine. You also have to learn to navigate the interface, which is its own special challenge!
 
@@ -9,25 +12,25 @@ So lets dive right in! In the end you will find managing your dwarfs well quite 
 
 In-game interface
 =================
-Hit “u”! You will be presented with a list much like this:
+Hit :kbd:`u`! You will be presented with a list much like this:
 
 .. image:: images/dftutorial68.png
    :align: center
 
-On the left, a list of dwarfs with their name and current profession (the game works out the dwarf’s profession based on their best skill, unless you assign them a custom profession name, more on that later). On the right, we have the current job the listed dwarf is doing.  You will note that the list includes more then just dwarfs. You can scroll up and down using “PageDown” and “PageUp” as well as the arrow keys so have a look around. This is the full list of all living creatures in the current area (excluding vermin), so it’s a good way to see how many goblins you’re facing when the inevitable siege occurs!
+On the left, a list of dwarfs with their name and current profession (the game works out the dwarf’s profession based on their best skill, unless you assign them a custom profession name, more on that later). On the right, we have the current job the listed dwarf is doing.  You will note that the list includes more then just dwarfs. You can scroll up and down using :kbd:`PageUp` and :kbd:`PageDown` as well as the arrow keys so have a look around. This is the full list of all living creatures in the current area (excluding vermin), so it’s a good way to see how many goblins you’re facing when the inevitable siege occurs!
 
-Had a good look? Great! Now lets get on with working with our dwarfs. With the first dwarf selected, hit “c” for “Zoom-Cre”. Using this shortcut will become extremely familiar to you as you jump to this list, select a dwarf, and whack “c” to see what on earth they are up to now!
+Had a good look? Great! Now lets get on with working with our dwarfs. With the first dwarf selected, hit :kbd:`c` for :guilabel:`Zoom-Cre`. Using this shortcut will become extremely familiar to you as you jump to this list, select a dwarf, and whack :kbd:`c` to see what on earth they are up to now!
 
 .. image:: images/dftutorial69.png
    :align: center
 
-Lets examine what we can see here. On the left we have a yellow X over the dwarf we selected. If we were to move the X around using the arrow keys we’d see the info on the right change as the closest dwarf to the X changes. By the way, you can pull up the X directly without going through “u” just by hitting “v” from the main map. This is really handy for when you’re trying to work out which dwarf is skulking around the dining room not doing any work!
+Lets examine what we can see here. On the left we have a yellow X over the dwarf we selected. If we were to move the X around using the arrow keys we’d see the info on the right change as the closest dwarf to the X changes. By the way, you can pull up the X directly without going through :kbd:`u` just by hitting :kbd:`v` from the main map. This is really handy for when you’re trying to work out which dwarf is skulking around the dining room not doing any work!
 
-So, lets focus back on Ingish Noramshem, Miner. You can see some info about this stunty. First up, you can go to the “l” for “Labour” menu, the “e” for “Work Dogs”, “s” for “Soldiering and Hunting” or you can “A” “activate” the dwarf. Don’t worry about any of those just yet! Instead, look at the bottom menu list. We’ve got “z”, “View profile” and a list of other shortcuts.
+So, lets focus back on Ingish Noramshem, Miner. You can see some info about this stunty. First up, you can go to the :kbd:`l` for “Labour” menu, the :kbd:`e` for “Work Dogs”, :kbd:`s` for “Soldiering and Hunting” or you can :kbd:`A` “activate” the dwarf. Don’t worry about any of those just yet! Instead, look at the bottom menu list. We’ve got :kbd:`z`, “View profile” and a list of other shortcuts.
 
 Things can get a little confusing from here, so follow along carefully. For some reason known only to Toady, the coder, the menus get extremely circular, but we’ll get there in the end!
 
-So, hit “z”, and you’ll see this:
+So, hit :kbd:`z`, and you’ll see this:
 
 .. image:: images/dftutorial70.png
    :align: center
@@ -49,41 +52,41 @@ The next block of text covers the personality traits of the dwarf. There’s not
 
 Don’t be alarmed by the note on drinking. All dwarfs love drink!
 
-With this examining done, space back a menu and hit “r”.
+With this examining done, space back a menu and hit :kbd:`r`.
 
 .. image:: images/dftutorial72.png
    :align: center
 
-To be honest, I seldom view this screen and I’m not sure if we really need to. I just noticed that with the selection over the deity you can hit “v” and get information on the god worshipped, cool! This dwarf worships Agesh, who “often takes the form of a female dwarf and is associated with fame, rumors, agriculture, the rain and rainbows”, sounds delightful!
+To be honest, I seldom view this screen and I’m not sure if we really need to. I just noticed that with the selection over the deity you can hit :kbd:`v` and get information on the god worshipped, cool! This dwarf worships Agesh, who “often takes the form of a female dwarf and is associated with fame, rumors, agriculture, the rain and rainbows”, sounds delightful!
 
 You also get a list of friends here, and in time, partners and children. It’s interesting, but not particularly useful
 
-Anyway, back out of that menu and hit “y” for “Customize”. You get an option now, customize nickname and customise profession. Some people use these to tag their dwarfs for more easy viewing, or to name them after friends and family for general hilarity, I leave this option alone because I have plans for them using the Dwarf Manager utility, but more on that later.
+Anyway, back out of that menu and hit :kbd:`y` for “Customize”. You get an option now, customize nickname and customise profession. Some people use these to tag their dwarfs for more easy viewing, or to name them after friends and family for general hilarity, I leave this option alone because I have plans for them using the Dwarf Manager utility, but more on that later.
 
-Hit “spac” and back out to the main dwarf menu. Hit “g” for “Gen”. You’ll see some skill information and stat information for this dwarf:
+Hit :kbd:`Esc` and back out to the main dwarf menu. Hit :kbd:`g` for “Gen”. You’ll see some skill information and stat information for this dwarf:
 
 .. image:: images/dftutorial73.png
    :align: center
 
 As you can see, all of this mining and digging has made our dwarf tough and agile.  Ingish is also becoming a skilled miner and is also an adept mason! Other skills have been built up through time in our fortress. There’s more to see than this list though, I’ve highlighted the down arrow which indicates that there are more skills and so use “alt”+”down arrow” and have a look. You should see “Dabbling Grower” at the bottom, looks like our shorty has been picking some plants in the fields!
 
-Now, next menu item, hit “i” for “Inventory”. You will see a list of items your dwarf is carrying, it should look something like this:
+Now, next menu item, hit :kbd:`i` for “Inventory”. You will see a list of items your dwarf is carrying, it should look something like this:
 
 .. image:: images/dftutorial74.png
    :align: center
 
-If you want to make this list easier to read, hit “Tab” a few times until the menu takes up half the screen. Then you can see all the item names in full (this tip is especially helpful with some workshop menus where item names are long). You can use this list of inventory items to check closely what your dwarf is carrying. Scroll through each item using the alt-scroll method, and hit “enter” and “v” if you want to learn more. The inventory screen is one you’ll use often when dealing with the military side of Dwarf Fortress. Don’t worry too much about it for now.
+If you want to make this list easier to read, hit :kbd:`Tab` a few times until the menu takes up half the screen. Then you can see all the item names in full (this tip is especially helpful with some workshop menus where item names are long). You can use this list of inventory items to check closely what your dwarf is carrying. Scroll through each item using the alt-scroll method, and hit :kbd:`Enter` and :kbd:`v` if you want to learn more. The inventory screen is one you’ll use often when dealing with the military side of Dwarf Fortress. Don’t worry too much about it for now.
 
-Lets move on and hit “w”. This is a list of wounds:
+Lets move on and hit :kbd:`w`. This is a list of wounds:
 
 .. image:: images/dftutorial75.png
    :align: center
 
-White is good. Nothing injured. Light grey indicates bruised, yellow indicates broken, red, mangled and grey is “loped off”. In a game I’m playing now I currently have a goblin I stuck in a special goblin pit with both eyes missing after a fight with my dwarfs (and those are the only wounds! Good shot marksdwarfs!). He keeps wandering around and passing out before waking up and wandering around again, no doubt bumping into other goblins before collapsing again. Ok, so I found it amusing, anyway…
+White is good. Nothing injured. Light grey indicates bruised, yellow indicates broken, red, mangled and grey is “lopped off”. In a game I’m playing now I currently have a goblin I stuck in a special goblin pit with both eyes missing after a fight with my dwarfs (and those are the only wounds! Good shot marksdwarfs!). He keeps wandering around and passing out before waking up and wandering around again, no doubt bumping into other goblins before collapsing again. Ok, so I found it amusing, anyway…
 
 What you can’t immediately see in this list are organs. Yes, Dwarf Fortress does model internal organs! If your dwarfs, or critters, get wounded, you can see exactly how much and to what degree from this screen. Dwarfs that get wounded will be taken (or make their own way) to your barracks where they will be fed, watered (you need a bucket made in the carpenters for your dwarfs to fetch water for the injured dwarf) and left to recover. This can take a substantial amount of time, weeks, months or even years! And they may never recover from some injuries.
 
-Hit “p” to be taken back to the info-screen about that dwarf. For now, ignore the “Activate” and “Work Dogs” option (we have no trained dogs yet) and lets focus on “Labour”. When you hit “l” you’ll see a screen like this:
+Hit :kbd:`p` to be taken back to the info-screen about that dwarf. For now, ignore the “Activate” and “Work Dogs” option (we have no trained dogs yet) and lets focus on “Labour”. When you hit :kbd:`l` you’ll see a screen like this:
 
 .. image:: images/dftutorial76.png
    :align: center
