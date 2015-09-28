@@ -22,12 +22,18 @@
     font-size: 0.9em;
 }
 
+@font-face {
+  font-family: cp437;
+  src: url("cp437.ttf");
+}
+
 .guilabel {
 /* In-game text CSS from the DF wiki; applies to :guilabel:`` directives.
  * Use this for any text from an in-game announcement or menu.
  */
-    color: #C0C0C0;
-    font-family: &#39;fixedsys&#39;, monospace;
+    color: #CBC7C0;
+    font-family: cp437;, &#39;fixedsys&#39;, monospace;
     background: #000000;
-    font-size: 0.9em;
+    font-size: 0.95em;
+    padding: 0.05em 0.4em;
 }

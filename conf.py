@@ -97,7 +97,7 @@ todo_include_todos = True
 # short alias names to a base URL and a prefix.
 # See http://sphinx-doc.org/ext/extlinks.html
 extlinks = {
-    'wiki': ('http://dwarffortresswiki.org/index.php/cv:%s', ''),
+    'wiki': ('http://dwarffortresswiki.org/%s', ''),
     'forums': ('http://www.bay12forums.com/smf/index.php?topic=%s',
                'Bay12 forums thread '),
     'reddit': ('https://www.reddit.com/r/dwarffortress/comments/%s', ''),

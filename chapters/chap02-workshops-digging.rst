@@ -31,7 +31,7 @@ outside for now:
   :guilabel:`Workshops` using :kbd:`Alt`-:kbd:`↓` and hit :kbd:`Enter`.
 * You will now see a list of workshops. It scrolls off the bottom of
   the page (scroll around if you like)! Hit :kbd:`c` for
-  :guilabel:`Carpenter’s workshop`.
+  :guilabel:`Carpenter's workshop`.
 * The menu will vanish and the placement menu will appear. The green
   X’s mark out the workshop’s footprint. The dark green Xs are squares
   that will be impassible once the workshop is built, keep this in mind
@@ -40,7 +40,7 @@ outside for now:
 .. image:: images/dftutorial18.png
    :align: center
 
-* Chose a spot in front of the fortress. Somewhere round where mine is
+* Chose a spot in front of the fortress. Somewhere around where mine is
   marked should do. Once you’re ready to place your workshop hit
   :kbd:`Enter`.
 * The menu on the right will now change to a list of items you could
@@ -52,8 +52,8 @@ outside for now:
 
 * At this point you could just hit enter and the first item on the list
   will be used to build the workshop. Instead, for fun, hit :kbd:`x` and
-  "expand" the view to show a list of every single item the workshop can
-  be built from. Expanding the item selection is a nice way to chose
+  :guilabel:`expand` the view to show a list of every single item the workshop
+  can be built from. Expanding the item selection is a nice way to chose
   exactly the item you want to be used. Most of the time you can ignore
   this option, but it will come in handy later on.
 * Close the expanded menu with :kbd:`x` again. For your interest note
@@ -254,8 +254,8 @@ worry about metal later.
 What’s that on the ground?
 ==========================
 While they’re busy digging, why not have a look at what is scattered
-all over the ground. To do that, from the main menu, hit :kbd:`k` for
-:guilabel:`Look Around`. An X will appear and you can direct it using
+all over the ground. To do that, from the main menu, hit :kbd:`k` to
+look around. An X will appear and you can direct it using
 the arrow keys. As you move it around you’ll see what’s under the
 arrow. Check my example:
 
@@ -263,7 +263,7 @@ arrow. Check my example:
    :align: center
 
 As you can see, underneath my X is a dwarf, some limestone, and a
-limestone cavern floor. I can use the alternate scroll :kbd:`↓` to move
+limestone cavern floor. I can use :kbd:`-` to scroll down
 through those three items, and hitting enter will display me some info
 about each. Ok, except for the floor. I mean, what do you want to know?
 It’s a floor!
@@ -324,9 +324,7 @@ Making booze!
 =============
 Booze is the lifeblood of dwarven society. Literally so. Dwarfs, unless
 injured, will prefer to drink booze over water 100% of the time. If
-there is no booze, they will drink water, but that often involves
-dangerous trips to the nearest river, where deadly carp may end your
-dwarf’s life prematurely. DO NOT UNDERESTIMATE THE FISH!
+there is no booze, they will drink water, and that's terrible.
 
 Dwarfs without booze also work slower. Like me.
 

@@ -51,7 +51,7 @@ Tutorials
 The walkthrough covers the topics you'll need in every fortress, in just
 enough detail to get you started.  After that, it's your decision what
 to focus on - the options are endless, from beekeeping to soap-making to
-digging too deep, or learning make and install mods of all kinds.
+digging too deep, or learning to make and install mods.
 
 Each tutorial is a short, self-contained introduction to a topic which is
 likely to be of interest to players who have just finished the walkthrough.
@@ -87,4 +87,6 @@ with :reddit:`his approval <368j7h>` for adaptation, reuse, and relicensing.
 It **does not** use vanilla Dwarf Fortress - DF as distributed by ToadyOne
 (the developer) - but embraces community mods, tools, and interface upgrades.
 If that's not your thing, try the guide :wiki:`on the wiki. <Quickstart_guide>`
+
+`Please consider supporting my work. <https://www.patreon.com/PeridexisErrant>`_
 
