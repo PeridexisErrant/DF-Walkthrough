@@ -1,9 +1,8 @@
 ##################
-Burning hot magma!
+!!Fun!! with Magma
 ##################
 
 
-This is our second-to-last tutorial (unless you all beg for more).
 Today we’re covering building magma forges and smelters and how you can
 set up some magma channels. Then we’ll talk a bit about constructing
 steps and how to remove constructions. Read on!

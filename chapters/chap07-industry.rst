@@ -1,6 +1,6 @@
-##################
-A Mighty Fortress!
-##################
+########################
+An Industrial Revolution
+########################
 
 You have come a long way, young jedi! Your dwarf herding skills are
 strong! You now know the basics of building, production, trading and

@@ -1,6 +1,6 @@
-##############
-Dwarf whatnow?
-##############
+#################
+From Cave to Home
+#################
 
 In this tutorial we’ll set up some more living space for our dwarves as
 well as more workshops and stockpiles. This will just be a short one as
@@ -91,10 +91,12 @@ Meanwhile, we need to make ourselves a dinning room!
 
 What’s that? Oh bugger!
 =======================
-Just got a message which reminded me that I’ve forgotten to do something…
+Just got a message which reminded me that I’ve forgotten to do something...
 
-.. image:: images/dftutorial45.png
-   :align: center
+    | :guilabel:`The Outpost Liason from Vushuvash has arrived.`
+    | :guilabel:`A caravan from Vushuvash has arrived.`
+    | :guilabel:`Their wagons have bypassed your inaccessible site.`
+    | :guilabel:`The merchants need a trade depot to unload their goods.`
 
 Damn! A trade caravan arrived but couldn’t make it to our fortress
 because, 1: it is inaccessible, 2: we don’t have a trade depot. This
@@ -117,7 +119,7 @@ We do that in much the same way we set up bedrooms:
   fun, move it over a chair and and read what sort of rooms chairs set up).
 * When over a table, hit :kbd:`r`, and again you should see a flashing blue
   box which doesn’t quite fill the room.
-* Use :kbd:`-` to expand the room to fill the dining room space.
+* Use :kbd:`=` to expand the room to fill the dining room space.
 * Hit :kbd:`Enter`.
 * Now hit :kbd:`h` to turn the dining room into a meeting hall as well.
   The :guilabel:`(N)` on the menu will become a :guilabel:`(Y)`.
@@ -176,7 +178,7 @@ If you get confused about a bedroom (or any room’s status), just hit
 that you can assign one room to have multiple uses, for example, put a
 bed and table in the same room and specify that the room is both a
 bedroom and a dining room, but doing so reduces the overall quality of
-both rooms. Don’t bother unless you have some clever and good reason to.
+both rooms. Don’t bother unless you have some clever reason to.
 
 While you’ve got your cursor up, move it over the door and look at
 those options. You can lock doors and you can also make them impassable
@@ -184,9 +186,9 @@ to pets. Don’t bother with that for now, just have a look around.
 
 Workshop fun!
 =============
-Lets set up more workshops. First, put another mason workshop in with
-the other mason shop. It will be handy in the long run, I am sure. Set
-up a couple of carpenter’s workshops in the room next door. While
+Lets set up more workshops. First, put another mason's workshop in with
+the other one. It will be handy in the long run, I am sure. Set
+up a couple of carpenter's workshops in the room next door. While
 you’re at it, set-up a big wood pile (:kbd:`p`, :kbd:`w`). The next thing to do
 is to set up some more  piles. How about we go through and make a
 :guilabel:`Finished Goods` pile? Build it using :kbd:`p`, :kbd:`g`.
@@ -204,7 +206,7 @@ This is how mine looks:
    :align: center
 
 That’s all for now, except before I go I have some homework for
-you. But don’t worry, this is the fun kinda homework. See if you can
+you. But don’t worry, this is the fun kind of homework. See if you can
 complete these tasks before we meet again:
 
 #. Destroy the carpenter’s workshop upstairs.
@@ -214,16 +216,16 @@ complete these tasks before we meet again:
 #. Designate a bunch of plants to be harvested.
 #. Make a lot more beer and a lot more barrels, or set up ``workflow`` for
    some of the furniture you'll need later (beds, doors, tables, chairs).
-#. Make some “bins” in the carpenters shop. About 15 or so should do.
-   You’ll have to scroll to find them in the carpenter “a” “Add new task”
-   list. (or go “a” then “n”). Bins are what everything that isn’t food or
-   booze are stored in.
+#. Make some :guilabel:`bins` in the carpenters shop - around 15 should do.
+   You’ll have to scroll to find them in the carpenter :kbd:`a`
+   :guilabel:`Add new task` list, or use :kbd:`a`, :kbd:`n`.
+   Bins are what everything that isn’t food or booze are stored in.
 #. Go to the mason’s workshop and set it to build blocks on repeat
    (:kbd:`q`, :kbd:`a`, :kbd:`b`, :kbd:`r`). Do this only if you’ve already
    managed to make a LOT of bins or your Bar/Block pile will get filled
    quickly!
 #. See if you can make some stone crafts. You will find them under the
-   :kbd:`g` :guilabel:`rock` sub-menu from the :guilabel:`Add new task`
+   :kbd:`g` (:guilabel:`rock`) sub-menu from the :guilabel:`Add new task`
    menu on the craftsdwarf’s workshop. Make sure you have lots of bins for
    your crafts to go in though, and a big finished goods stockpile too!
 

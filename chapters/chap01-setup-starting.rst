@@ -1,6 +1,6 @@
-#################
-WTF is happening?
-#################
+###############
+Getting Started
+###############
 
 
 Dwarf Fortress is an extremely interesting and complex game, but one

@@ -1,6 +1,6 @@
-####################
-No, seriously, WTF?!
-####################
+################################
+Workshops, Furniture, and Stairs
+################################
 
 Lets continue on with our exciting and fascinating Dwarf Fortress
 Walkthrough! In this section we’ll work on getting some workshops set
@@ -66,7 +66,7 @@ outside for now:
 .. image:: images/02-carpenter-template.png
    :align: center
 
-Your workshop is now about to be built. You will have to hit :kbd`Esc` a
+Your workshop is now about to be built. You will have to hit :kbd:`Esc` a
 couple of times to un-pause the game, but as soon as you do I bet you
 that a helpful wee dwarf will run over and start building it. If you’re
 quick you can hit :kbd:`q` and see the status of the workshop, it
