@@ -122,7 +122,7 @@ Special text:
   with the special style.  Keys are case sensitive, so ``:kbd:`Shift```
   should never be used (unlike :kbd:`Esc`, :kbd:`Space`, etc.).
 * For in-game text, use the ``:guilabel:`In game text``` directive, which
-  is rendered with the appropriate font and background.  Ensure that the phrasing
+  is rendered with the appropriate font and background.  Ensure that phrasing
   and capitalisation matches DF exactly (except ``'``, which renders as
   :guilabel:`'` - leave it out).  Don't use this style for ASCII art, only
   ingame menus which should be read as text.
