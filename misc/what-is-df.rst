@@ -62,7 +62,7 @@ some of the better articles for a background understanding.
 
 .. epigraph::
 
-    Players are responsible for the cultivation and management of a 
+    Players are responsible for the cultivation and management of a
     virtual ecosystem — a colony of dwarves trying to build a thriving
     fortress in a randomly generated world. Dwarf Fortress unfolds as
     a series of staggeringly elaborate challenges and devastating
@@ -74,8 +74,8 @@ some of the better articles for a background understanding.
     facade is a dizzying array of moving parts, algorithms that model
     everything from dwarves’ personalities (some are depressive; many
     appreciate art) to the climate and economic patterns of the
-    simulated world. ... 
-    
+    simulated world. ...
+
     -- `The NY Times Magazine <http://www.nytimes.com/2011/07/24/magazine/
     the-brilliance-of-dwarf-fortress.html?_r=2&pagewanted=all>`_
 

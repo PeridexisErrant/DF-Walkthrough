@@ -495,7 +495,7 @@ With the room set as a dormitory any dwarf without their own room will
 use the beds in the dormitory to sleep in. When you have a military, a
 :guilabel:`Barracks` is where dwarfs will spar and sleep when off duty.
 
-Well done! We have a shared bedroom for our shorties to sleep in! 
+Well done! We have a shared bedroom for our shorties to sleep in!
 
 In the next chapter of the walkthrough, we’ll build a fine dining
 room, set up some more workshops, and start to build some proper living

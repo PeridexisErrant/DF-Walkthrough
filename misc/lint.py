@@ -4,11 +4,18 @@
 Any other automatic checks should be in this file too.
 """
 
+from io import open
 import os
 from os.path import *
 import sys
 
 text_extensions = ('rst', 'md', 'txt', 'html', 'css', 'js')
+
+
+def error(fname, lineno, issue):
+    """Print the problem and location."""
+    print('ERROR:  {}:{} - {}'.format(fname, lineno+1, issue))
+
 
 def lint(path):
     """Run linters on all files, print problem files."""
@@ -21,19 +28,15 @@ def lint(path):
                     fname.endswith(ext) for ext in text_extensions):
                 continue
             with open(fname, encoding='utf-8') as fh:
-                if '\t' in fh.read():
-                    failed = True
-                    print('ERROR:  tabs found in {}'.format(fname))
-                if any(line.replace('\n', '') != line.rstrip()
-                       for line in fh.readlines()):
-                    failed = True
-                    print('ERROR:  trailing whitespace in {}'.format(fname))
-                fh.seek(0)
                 for i, line in enumerate(fh.readlines()):
                     if len(line) > 81:
                         failed = True
-                        print('ERROR:  {}:{} - line too long'.format(
-                              fname, i + 1))
+                        error(fname, i, 'too long')
+                    if line.replace('\n', '') != line.rstrip():
+                        failed = True
+                        error(fname, i, 'trailing space')
+                    if '\t' in line:
+                        error(fname, i, 'contains tab')
     if failed:
         print('Use your text editor to convert tabs to spaces, wrap lines '
               'or trim trailing whitespace with minimal effort.')

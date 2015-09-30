@@ -21,7 +21,7 @@ that would be much appreciated.  I'm also very happy to take bug reports!
 You can `find the project on Github
 <https://github.com/PeridexisErrant/DF-Walkthrough>`_.
 
-If this sounds like a lot of work - and it is - you can 
+If this sounds like a lot of work - and it is - you can
 `support me on Patreon <https://www.patreon.com/PeridexisErrant>`_ instead.
 
 
@@ -99,7 +99,7 @@ Markup
 ------
 Markup should be fairly minimal and let readers focus on the text.
 Basic markup helps with this, and should be used where appropriate.
-If in doubt, just match the surrounding sections. 
+If in doubt, just match the surrounding sections.
 
 Headings:
 

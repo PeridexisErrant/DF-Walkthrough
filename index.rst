@@ -31,7 +31,7 @@ up,  reflect on what you learnt, and recite the motto:  **Losing is Fun!**
    :numbered:
    :maxdepth: 1
    :glob:
-   
+
    chapters/*
 
 
@@ -52,7 +52,7 @@ and the Bay12 Forums will be your best friends.
 .. toctree::
    :maxdepth: 1
    :glob:
-   
+
    tutorials/*
 
 
