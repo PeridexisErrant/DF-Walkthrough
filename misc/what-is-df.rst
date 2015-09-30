@@ -21,7 +21,8 @@ some of the better articles for a background understanding.
     Although Dwarf Fortress is still in a work in progress, many features
     have already been implemented...
 
-    -- `Tarn Adams (developer of *Dwarf Fortress*) <http://bay12games.com/dwarves/features.html>`_
+    -- `Tarn Adams (developer of *Dwarf Fortress*)
+       <http://bay12games.com/dwarves/features.html>`_
 
 
 .. epigraph::
@@ -55,7 +56,8 @@ some of the better articles for a background understanding.
     established one might be home to established communities of potential
     foes such as goblins.
 
-    -- `NewStatesman  <http://www.newstatesman.com/killing-time/2014/07/way-down-hole-getting-grips-dwarf-fortress>`_
+    -- `NewStatesman  <http://www.newstatesman.com/killing-time/2014/07/
+    way-down-hole-getting-grips-dwarf-fortress>`_
 
 
 .. epigraph::
@@ -74,5 +76,6 @@ some of the better articles for a background understanding.
     appreciate art) to the climate and economic patterns of the
     simulated world. ... 
     
-    -- `The NY Times Magazine <http://www.nytimes.com/2011/07/24/magazine/the-brilliance-of-dwarf-fortress.html?_r=2&pagewanted=all>`_
+    -- `The NY Times Magazine <http://www.nytimes.com/2011/07/24/magazine/
+    the-brilliance-of-dwarf-fortress.html?_r=2&pagewanted=all>`_
 

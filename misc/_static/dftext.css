@@ -1,9 +1,10 @@
-@import url("alabaster.css"); /* make sure to sync this with the base theme's css filename */
+/* make sure to sync this with the base theme's css filename */
+@import url("alabaster.css");
 
+.kbd {
 /* Keybinding CSS from the DF wiki; applies to :kbd:`` directives.
  * Use this directive for all keypresses, to make them look like keys.
  */
-.kbd {
     border: 1px solid #aaa;
     border-radius: 0.2em;
     -webkit-border-radius: 0.2em;

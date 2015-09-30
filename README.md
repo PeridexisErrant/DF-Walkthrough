@@ -1,4 +1,8 @@
 ## PeridexisErrant's DF Walkthrough
+[![Build Status](https://travis-ci.org/PeridexisErrant/DF-Walkthrough.svg)]
+(https://travis-ci.org/PeridexisErrant/DF-Walkthrough)
+[![Docs Status](https://readthedocs.org/projects/df-walkthrough/badge)]
+(https://df-walkthrough.rtfd.org)
 
 Resources for people who want to play Dwarf Fortress, but can't yet.
 
@@ -8,6 +12,6 @@ Resources for people who want to play Dwarf Fortress, but can't yet.
 
 [Check it out here!](https://df-walkthrough.readthedocs.org)
 
-If yuo're interested in contributing, I'd love a hand! The main priority is
+If you're interested in contributing, I'd love a hand! The main priority is
 updating the walkthrough and moving non-core content to tutorials.  More
 tutorials would also be great!

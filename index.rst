@@ -8,17 +8,6 @@ than any other game around.  This walkthrough, along with the
 :forums:`DF Starter Pack <126076>`, are my attempts to dangle a rope
 down, as the community first did for me years ago.
 
-.. warning::
-
-    This is a work in progress - it's not all updated from the
-    old tutorials this is based on, so many references are to
-    an outdated version of the game.
-
-    The instructions are mostly still useful, but screenshots may
-    look a bit different.  I suggest playing with the DF Starter
-    Pack, rather than the old tutorial save, so your world is
-    compatible.
-
 
 The Walkthrough
 ===============
@@ -80,13 +69,15 @@ Other Information
 
 About
 =====
-This is a sucessor project to `TinyPirate's tutorials
-<http://afteractionreporter.com/dwarf-fortress-tutorials/>`_,
-with :reddit:`his approval <368j7h>` for adaptation, reuse, and relicensing.
+The source text and images are `hosted on Github
+<https://github.com/PeridexisErrant/DF-Walkthrough>`_ and the finished site is
+published immediately to `readthedocs.org <https://df-walkthrough.rtfd.org>`_
+every time a change is pushed.
 
-It **does not** use vanilla Dwarf Fortress - DF as distributed by ToadyOne
-(the developer) - but embraces community mods, tools, and interface upgrades.
-If that's not your thing, try the guide :wiki:`on the wiki. <Quickstart_guide>`
+Inspiration and original text - from which I learnt to play DF - by
+`TinyPirate <http://afteractionreporter.com/dwarf-fortress-tutorials/>`_,
+adapted with :reddit:`permission <368j7h>`.
 
-`Please consider supporting my work. <https://www.patreon.com/PeridexisErrant>`_
+Consider `supporting my work <https://www.patreon.com/PeridexisErrant>`_
+on Patreon.
 
