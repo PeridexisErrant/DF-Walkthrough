@@ -14,7 +14,7 @@ Extreme Home Makeover: Dwarf Edition!
    :align: center
 
 …Lots of Crafts! I’ve gone through and completed all of the tasks at
-the end of Tutorial 3, and to prove it, here is a picture of my pile of
+the end of chapter 3, and to prove it, here is a picture of my pile of
 crafts. Looks like I haven’t made much in the way of bins yet, so the
 crafts haven’t been tidily stored in a single bin. Don’t worry, once
 bins are produced the dwarfs will sort all this out.
@@ -23,6 +23,14 @@ I’ve also got piles everywhere, workshops set up and food and booze
 production going. Things are looking good! But we have yet more useful
 jobs to do.
 
+Before getting to those though, let's set up a trade depot outside so
+merchants can bring us wagons of useful goods.  Place that with
+:kbd:`b`, :kbd:`D` outside - wagons need a three tile wide pathway
+without traps, so this is the easiest way to keep it accessible.
+
+Next time traders turn up, just remember to check out the tutorial
+on :ref:`tutorial-trading` for a guide to the process.
+
 First up, we need to move our booze production down stairs. I want to
 set up a trade depot upstairs and I’ve decided I don’t want to leave
 the depot outside, and I don’t want to dig out any more of our limited
@@ -30,7 +38,7 @@ top-floor space just now. Of course, we have many options for how we
 expand the fortress, but we’ll go for simple right now, so lets get
 shifting stuff.
 
-Before we head on to the trade depot, lets get get on with some digging
+Lets get get on with some digging
 and our new booze space. Hell, lets move the food downstairs as well
 and keep it nice and close to the dining room, where dwarfs are going
 to want to eat it.
@@ -43,51 +51,7 @@ Here’s how I’ve plotted things out:
 Once that digging is done, set up the big food storage hall as a food
 stockpile. Then build a still downstairs using “b”, “w”, “l”. This
 should be easy-peasy for you now! Your next job is go to upstairs and
-remove the food stockpile and the still. Let everything clear and we’ll
-go on to trade depots!
-
-Blankets, beads, muskets and cat skull totems!
-==============================================
-Trading is very important for your fortress. Every few months you’re
-likely to get a trade caravan and envoy arrive at your fortress looking
-to trade with you. They offer a wide range of goods and one of the most
-common things we trade back to them is crafts made from the
-craftsdwarf’s workshop. And the easiest crafts to trade are rock ones.
-Rock mugs and instruments are popular as well, so get a bunch made of
-all of the above when you’ve got the time.
-
-But for the traders to visit properly they need a trade depot. This is
-a big structure which requires a 3-wide corridor for the trader wagons
-to access. Often people build them close to the fortress entrance, but
-there’s no reason you couldn’t build a trade depot deep inside your
-fortress to keep it nice and safe.
-
-For now, we’re going to enlarge the space we have upstairs with a
-little digging and get this depot set up. Here’s what I’ve set to be
-dug out:
-
-.. image:: images/dftutorial50.png
-   :align: center
-
-Once the space is dug out, hit “b” and then “D” for “Trade Depot”,
-note, that’s a capital-d, not the usual lower case “d”. Place it near
-the back. Here’s mine:
-
-.. image:: images/dftutorial51.png
-   :align: center
-
-Now that we have the depot up we can expect to see traders turn up to
-unload their goods here now and then. To trade with them you “q” over
-the building and follow the options: “g” to move goods to the trade
-depot, and “r” to request your boss dwarf to go do the trading. Once he
-turns up you hit “t” and then enter the trade screens. Note again, do
-not trade anything wooden to the elves, including wooden barrels and
-bins! They will get pissy, leave, and attack you some years later!
-Trading is beyond the scope of this current tutorial as there’s quite a
-lot to it, but you can read a lot more about it on the Dwarf Fortress
-Wiki. I suggest you make an effort to trade as trading encourages new
-immigrants to come to your fortress and provides you with items you
-can’t make or find yourself. Speaking of which…
+remove the food stockpile and the still.
 
 Look what the cat dragged in!
 =============================
@@ -284,4 +248,3 @@ leave all of that for Part 5.
 
 Until then go make a bunch of crafts, get the booze flowing and wait on
 my return!
-

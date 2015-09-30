@@ -1,9 +1,54 @@
+.. _tutorial-trading:
+
 ##########################
 Trading for Fun and Profit
 ##########################
 
 This will be a bit shorter, but we’re going to cover some important
 information, none-the-less. So stay tuned for more dwarfy goodness!
+
+Blankets, beads, muskets and cat skull totems!
+==============================================
+Trading is very important for your fortress. Every few months you’re
+likely to get a trade caravan and envoy arrive at your fortress looking
+to trade with you. They offer a wide range of goods and one of the most
+common things we trade back to them is crafts made from the
+craftsdwarf’s workshop. And the easiest crafts to trade are rock ones.
+Rock mugs and instruments are popular as well, so get a bunch made of
+all of the above when you’ve got the time.
+
+But for the traders to visit properly they need a trade depot. This is
+a big structure which requires a 3-wide corridor for the trader wagons
+to access. Often people build them close to the fortress entrance, but
+there’s no reason you couldn’t build a trade depot deep inside your
+fortress to keep it nice and safe.
+
+For now, we’re going to enlarge the space we have upstairs with a
+little digging and get this depot set up. Here’s what I’ve set to be
+dug out:
+
+.. image:: images/dftutorial50.png
+   :align: center
+
+Once the space is dug out, hit “b” and then “D” for “Trade Depot”,
+note, that’s a capital-d, not the usual lower case “d”. Place it near
+the back. Here’s mine:
+
+.. image:: images/dftutorial51.png
+   :align: center
+
+Now that we have the depot up we can expect to see traders turn up to
+unload their goods here now and then. To trade with them you :kbd:`q` over
+the building and follow the options: :kbd:`g` to move goods to the trade
+depot, and :kbd:`r` to request your boss dwarf to go do the trading. Once he
+turns up you hit :kbd:`t` and then enter the trade screens. Note again, do
+not trade anything wooden to the elves, including wooden barrels and
+bins! They will get pissy, leave, and attack you some years later!
+Trading is beyond the scope of this current tutorial as there’s quite a
+lot to it, but you can read a lot more about it on the Dwarf Fortress
+Wiki. I suggest you make an effort to trade as trading encourages new
+immigrants to come to your fortress and provides you with items you
+can’t make or find yourself. Speaking of which…
 
 Trading for fun and profit
 ==========================
@@ -198,4 +243,3 @@ carefully, and experiment! It can’t hurt!
 That’s all for now folks. Next time we’ll cover managing your dwarfs,
 which is an interesting challenge of immense potential depth. But don’t
 worry it’s not that hard, really!
-
