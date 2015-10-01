@@ -19,7 +19,7 @@ def error(fname, lineno, issue):
 
 def lint(path):
     """Run linters on all files, print problem files."""
-    print('Checking for tabs or trailing whitespace...')
+    print('Checking for long lines, tabs, and trailing whitespace...')
     failed = False
     for root, _, files in os.walk(path):
         for f in files:

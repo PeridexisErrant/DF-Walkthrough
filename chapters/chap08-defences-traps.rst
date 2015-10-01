@@ -9,7 +9,7 @@ find that mechanic’s workshop and fill it’s job queue with mechanisms.
 They’ll end up in a finished goods pile when done.
 
 Next, go to the Carpenter’s workshop and add a ton of cages (:kbd:`j` is the
-shortcut from the “Add Task” menu). Try and get ten built. Add another
+shortcut from the :guilabel:`Add Task` menu). Try and get ten built. Add another
 carpenter’s workshop to your workshop floor if you fancy, makes it
 easier to queue up more than a few of any item and get things made
 faster.
@@ -21,8 +21,8 @@ to the front entrance of your fort and we’ll get building traps and
 then ponder the various strategies one might employ in setting up the
 defence of your fortress. Follow along:
 
-* At the front entrance, hit “b”.
-* Scroll to “Traps/Levers” and hit enter, or just hit “T”.
+* At the front entrance, hit :kbd:`b`.
+* Scroll to :guilabel:`Traps/Levers` and hit :kbd:`Enter`, or just hit :kbd:`T`.
 * You will now see a list of traps, lets briefly discuss them.
 
 :Stone-fall traps:
@@ -58,13 +58,13 @@ defence of your fortress. Follow along:
     A peculiar sort of trap device that can only be triggered by a
     pressure plate or lever.
 
-You should read about :wiki:`traps <trap>` :wiki:`trap design
+You should read about :wiki:`traps <trap>` and :wiki:`trap design
 <trap_design>` on the wiki for a lot more detail, but only after you’ve
 completed this tutorial, ok?! For now, get back to work!
 
-* Scroll down to Cage Trap, hit enter.
+* Scroll down to :guilabel:`Cage Trap` and hit :kbd:`Enter`.
 * You now have a green X, place it in front of your entrance somewhere
-  with “enter”.
+  with :kbd:`Enter`.
 * Do this a few times, you can see below how I’ve set a few traps to be
   built.
 
@@ -72,7 +72,7 @@ completed this tutorial, ok?! For now, get back to work!
    :align: center
 
 This is hardly an impressive defence, but it will do for now. With luck
-it might help against any casual raiders, although “thief” monsters
+it might help against any casual raiders, although sneaky 'trapavoid' monsters
 will still be able to sneak past your traps. To beef our defence up a
 bit we need to get some weapon traps installed as well as sort out some
 way to strike back at attackers who aren’t so gracious to step on all
@@ -98,23 +98,20 @@ with the hard way, at least for a while.  The goal of all this is to
 produce a few fearsome trap components to fit out some weapon traps –
 think spinning disks from Indiana Jones! So follow along:
 
-* Find your wood furnace, hit “q” and “a” for “add task”.
-* Select “Make Charcoal”.
-* Queue up a full list of Charcoal.
-* Wait until your list is half-empty. Fill it some more!
-* Now go to the smelter, and try to “a”, “Add new task”. You will now
-  see a list of the tasks available at this workshop. Note, the tasks
+* Find your wood furnace, hit :kbd:`q`, :kbd:`a`
+* Select :guilabel:`Make Charcoal`, on :kbd:`r` repeat.
+* With the job selected, :kbd:`Alt`-:kbd:`w` to open workflow.
+  Set this to keep 5 to 10 charcoal bars available.
+* Now go to the smelter, and try to :kbd:`a`, :guilabel:`Add new task`.
+  You'll see a list of the tasks available at this workshop. Note, the tasks
   will change as you uncover more ores or deplete older ores. For
   interest, note that you can set the workshop to melt objects you wish
   to dispose of (turns the object back into a metal bar). More on that
   some other time.
-* Chose “Smelt Magnetite Ore”, hit “enter”. Magnetite contains iron,
-  this will turn those sparkly rocks lying around to iron bars.
+* Chose :guilabel:`Smelt Magnetite Ore`, hit :kbd:`Enter`. Magnetite is
+  a form of iron ore, so some of the rocks lying around will become iron bars.
 * Fill the queue and then fill it again (or build another smelter and
   fill both queues).
-* Try and make sure your charcoal production keeps up with the
-  smelting. If it falls behind your smelt task will be cancelled and
-  you’ll have to reissue it.
 * Once we’re done with this tutorial why not go and smelt all of that
   native platinum ore you saw on the list as well? If you’ve dug
   downstairs out you may have gold to smelt too!
@@ -127,15 +124,15 @@ more down outside!
 
 If you want to check your progress, go look at your Bar/Block stockpile
 and see what is being built up. If you suspect all of your production
-is in bins, use “k”, find the bin, hit “enter” and look inside the bin.
+is in bins, use :kbd:`k`, find the bin, hit :kbd:`Enter` and look inside it.
 
 A little on food processing
 ===========================
-While all this is going on, why not go to your farmer’s workshop and
-add a task of “Process Plants (to bag)”. Set it on repeat. Then add a
-task of “Process Plants (to barrel)”, again, set it on repeat. Now,
-anyone with the “Plant Processing” labour on (no one by default) will
-go and process anything you’ve grown that needs processing. I won’t
+While all this is going on, why not go to your farmer's workshop and
+add a task of :guilabel:`Process Plants (to bag)`. Set it on repeat.
+Then add a task of :guilabel:`Process Plants (to barrel)`, again,
+set it on repeat. Now some
+dwarves will process anything you’ve grown that needs processing. I won’t
 list those plants here now (go look at crops for all the detail), but
 suffice to say, some plants need to be processed so they can be eaten
 or used in other sorts of manufacture (eg, cloth making).
@@ -149,8 +146,9 @@ that way.
 
 Back to the iron!
 =================
-With a few iron bars made, head on back to the smelter. Go and “a”,
-“Add task”. You should now see a new task listed “Make Pig Iron Bar”.
+With a few iron bars made, head on back to the smelter. Go and :kbd:`a`,
+:guilabel:`Add new task`. You should now see a new task listed,
+:guilabel:`Make Pig Iron Bar`.
 Pig Iron is made out of one iron bar and one piece of flux material
 (eg, limestone, which we’ve got a lot of). Next on the production chain
 for us will be steel (which requires a pig iron bar an an iron bar and
@@ -163,8 +161,8 @@ bars and a dozen or so pig iron bars. Check in here again when you’re
 done.
 
 Right, with iron and pig iron bars complete, go back to your smelter
-and check the “Add tasks” menu. You should now see steel as a smelting
-option! Awesome! Smelt up a half-dozen steel bars. And while you’re at
+and check the :guilabel:`Add tasks` menu. You should now see steel as a
+smelting option! Smelt up a half-dozen steel bars. And while you’re at
 it, build a lot more cages and mechanisms and put at least half-a-dozen
 cage traps around your entrance. Come back once you’ve got a bunch of
 steel bars made.
@@ -173,24 +171,25 @@ Ok! Now we’re ready to rock! I hope, at this point, that you’ve not
 been invaded, attacked or otherwise molested. With our fortress around
 two years old now it’s likely you’ll start to see the odd goblin ambush
 – especially if you send your dwarfs outside a lot. I hope you survive
-those ambushes just fine! Perhaps we should have started this tutorial
+those ambushes just fine! Perhaps we should have started this chapter
 sooner…
 
 Anyway, head over to your metalsmith’s forge, and:
 
-* Hit “q”.
-* Hit “a”. You will now see a list! Explore the list, see all the neat
-  things we can make! You might need to hit “tab” to expand the menu size
-  so you can see everything.
-* Scroll to “Trap Components” and hit “enter”.
-* Scroll to “Steel”, hit “enter”.
-* Hit “tab” twice so we can see the full item names.
-* Chose to make a “large, serrated Steel disc”. I love the sound of that!
+* Hit :kbd:`q`, :kbd:`a` You will now see a list! Explore the list,
+  see all the neat things we can make! You might need to hit :kbd:`Tab`
+  to expand the menu size so you can see everything.
+* Scroll to :guilabel:`Trap Components` and hit :kbd:`Enter`.
+* Scroll to :guilabel:`Steel`, hit :kbd:`Enter`.
+* Hit :kbd:`Tab`, :kbd:`Tab` so we can see the full item names.
+* Chose to make a :guilabel:`large, serrated Steel disc`.
+  I love the sound of that!
 * Queue up three disks.
 
 At this point you might want to think about other items you’d like to
-make in due course. Hit “a” again and then hit space to back down the
-make-item tree. Chose “Weapons and Ammunition”, chose “Steel” and lets
+make in due course. Hit :kbd:`a` again and then hit space to back down the
+make-item tree. Chose :guilabel:`Weapons and Ammunition`, chose
+:guilabel:`Steel` and let's
 make three steel warhammers. These will come in handy once we start our
 military. I like warhammers because it’s funny to watch goblins fly a
 half dozen tiles and then expire in a heap.
@@ -200,24 +199,24 @@ got some more charcoal in production, you’ve got more ore being smelted
 and add, under Armor, three suits of iron chainmail and three iron
 shields. This will all come in handy later. You could make steel
 chainmail instead, but it takes a bit of time to make those steel bars
-and we want to get on with this tutorial, right?
-
-Don’t forget to make some more charcoal and to keep that production
-chain flowing. If this all feels rather cumbersome, don’t worry, we’ve
-got some production shortcuts we can work on later.
+and we want to get on with the chapter, right?
 
 Oh, you may be getting annoyed at slow production. I know it’s been
 bugging me. Perhaps it’s time to pack your production rooms with more
-smelters and charcoal burners. One issue you’ll face is you need to buy
-an anvil off the traders in order for you to make another metalsmith
+smelters and charcoal burners. One issue you’ll face is you need to make or
+buy an anvil off the traders in order for you to make another metalsmith's
 forge. Keep it in mind for your next trading deal.
+
+The other thing to consider is setting up Workflow for every step -
+automating complex industries like steelmaking (or soap) is exactly
+what it's designed for.
 
 Deploy Zee Traps!
 =================
 Once you’ve got your nice, big spikey discs, head back to your
 entrance. Get ready for trap placing fun!
 
-* Go to place a trap as you did earlier. But this time chose “Weapon Trap”.
+* Go to place another trap, a :guilabel:`Weapon Trap` this time.
 * Chose a mechanism.
 * A new screen will be displayed looking something like this:
 
@@ -227,16 +226,17 @@ entrance. Get ready for trap placing fun!
 * From this screen you can chose the weapons you want to deploy with
   your trap. Facing goblins, we really only need one awesome steel disc
   per trap I think, but we’re able to select more if we wish.
-* Scroll to the “large, serrated S…” and hit enter once, you’ll see
-  “1/3” selected.
-* Hit “d” for “Done Selecting”.
+* Scroll to the :guilabel:`large, serrated St...` and hit :kbd:`Enter`,
+  you’ll see :guilabel:`1/3 selected`.  Weapon traps can have up to
+  ten weapons each, but we need to save some for the other traps!
+* Hit :kbd:`d` for :guilabel:`Done Selecting`.
 * Your first weapon trap is now placed! Place three more.
 
 Weapon traps are great ways of getting rid of a bunch of trash weapons
 you might have lying around – this is particularly the case once you’ve
 killed off a few goblins and have their rubbish cluttering up your
 piles. When filling a trap with weapon trash you might want to put
-three or four weapons per trap, to ensure maximum sliceness!
+ten low-quality weapons per trap, to ensure maximum damage!
 
 Here are my traps, laid out. I’m actually going to add another row of
 slicey dicey weapon traps as I don’t have a military and I’m a bit
@@ -251,38 +251,44 @@ for ourselves. Let me explain…
 
 Defending stuff better
 ======================
-…If you hit “o” for “orders” you will see a list of global commands you
-can issue to your dwarfs. The first one at the top is “Dwarfs can go
-outside”. For amusement, hit “i” to toggle through the options. First
-“i” turns it to “Soldiers can go outdoors”. If you resume the game all
-but soldiers will immediately rush into your fortress and refuse to
-come out again. Hit “i” again and you’ll see that all dwarfs are now
-instructed to stay inside. Hit “i” once more to return it to the default.
+.. note::
 
-Setting orders to “Soldiers only” is what you will want to do when
+    This section needs to be updated.  DF2014 uses the burrows menu to
+    set areas, and doesn't have the simple inside/outside toggle.
+
+If you hit :kbd:`o` for :guilabel:`orders` you will see a list of global
+commands you can issue to your dwarfs. The first one at the top is
+:guilabel:`Dwarves can go outside`. For amusement, hit :kbd:`i` to
+toggle through the options. First :kbd:`i` turns it to
+:guilabel:`Soldiers can go outdoors`. If you resume the game all
+but soldiers will immediately rush into your fortress and refuse to
+come out again. Hit :kbd:`i` again and you’ll see that all dwarfs are now
+instructed to stay inside. Hit :kbd:`i` once more to return it to the default.
+
+Setting orders to :guilabel:`Soldiers only` is what you will want to do when
 you’re invaded. But there’s a problem with this, can you figure it out?
-The answer is that it’s in the definition of “outside”. Right now,
-right up to the edge of our cave mouth is “inside”. Can you imagine the
-result when goblins invade? You got it! Dwarfs may hang around right at
+The answer is that it’s in the definition of :guilabel:`outside`. Right now,
+right up to the edge of our cave mouth is :guilabel:`inside`. Can you imagine
+the result when goblins invade? You got it! Dwarfs may hang around right at
 all those traps and get in the way of soldiers or get themselves killed
 (or more amusingly, get knocked unconscious, fall on a trap, and then
 get sliced to bits).
 
-We can prevent this comedy routine by creating more “outside”. For
+We can prevent this comedy routine by creating more :guilabel:`outside`. For
 starters, how about we hollow away the roof above our cave entrance?
-Then that cave mouth becomes “outside”, but entry to our fortress is
+Then that cave mouth becomes :guilabel:`outside`, but entry to our fortress is
 still restricted by the walls and protected by traps. Good idea huh?!
 Follow along:
 
 * Go to our entrance.
-* Hit “d”.
+* Hit :kbd:`d`
 * Place the X about where I’ve got it below:
 
 .. image:: images/dftutorial99.png
    :align: center
 
 * Go up one level.
-* Hit “h” for channel.
+* Hit :kbd:`h` for channel.
 * Channel all the way up to the tree:
 
 .. image:: images/dftutorial9901.png
@@ -311,13 +317,13 @@ entrance, like this:
 .. image:: images/dftutorial9902.png
    :align: center
 
-Now, when we issue the order for our lads to “stay inside” they won’t
+Now, when we issue the order for our lads to :guilabel:`stay inside` they won’t
 be hanging around the entrance! Super! One thing I’m concerned about is
 that anyone above our entrance could get a clear shot down to fleeing
 dwarfs. Lets stop that by building a wall. While we’re at it lets tidy
 the bits of land poking out over open air. Flip up and down between
 levels and you’ll see where some tidying needs to be done. Channel
-away! As for the wall,  you know how to make walls using “b” and “C”,
+away! As for the wall,  you know how to make walls using :kbd:`b`, :kbd:`C`
 so go ahead and do it, here’s how mine turned out!
 
 .. image:: images/dftutorial9903.png
@@ -326,10 +332,11 @@ so go ahead and do it, here’s how mine turned out!
 Walls to secure anyone dropping in, nice open space to out
 outdoors/indoors problem.
 
-While you’re fiddling with “o”, “orders”, have a look at “r” for
-“refuse” orders. Unless I’m in battle, or worried, I like to toggle “o”
-under the refuse menu so it’s set at  “dwarfs gather refuse from
-outside”. They will then grab all the lewt from dead goblins that is
+While you’re fiddling with :kbd:`o`, :guilabel:`orders`, have a look at
+:kbd:`r` for :guilabel:`refuse` orders. Unless I’m in battle, or worried,
+I like to toggle :kbd:`o`
+under the refuse menu so it’s set at  :guilabel:`dwarfs gather refuse from
+outside`. They will then grab all the loot from dead goblins
 scattered around on the grass. Pretty handy huh? Nothing like free
 stuff, is there?
 
@@ -348,8 +355,8 @@ better prepared if this sort of bad luck has happened already.
    :align: center
 
 As you can see, there’s a little dwarf head icon to mark my fallen
-dwarfs as well as a red “g” to mark the dead goblin. There’s also lots
-of blood about. If you ever face something similar, hit “k” and have a
+dwarfs as well as a red g to mark the dead goblin. There’s also lots
+of blood about. If you ever face something similar, hit :kbd:`k` and have a
 look around at the destruction! You can also see the full cages where
 my cage traps are. If I didn’t forbid dwarfs to go outside they’d be
 out there now trying to pick up the full cages and replace them with
@@ -363,7 +370,7 @@ the next chapter.
 
 One point to note: If you forbid your dwarfs to go outside they may
 suspend construction jobs out there. Best to check around over anything
-you’ve got being built with “q” and hit “s” to un-suspend them as
+you’ve got being built with :kbd:`q` and hit :kbd:`s` to un-suspend them as
 appropriate.
 
 Anyway, that’s enough to now. Get on with building lots of traps,
