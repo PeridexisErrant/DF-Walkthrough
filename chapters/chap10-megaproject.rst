@@ -31,9 +31,9 @@ get on with it!
 
 * Find a spot.
 * Clear it of trees. About a screen full of clearing will be required.
-* Go down a level and used “d”, “r” for “ramp” to set a 10-wide row to
-  be turned into ramps. Now is a good time to remind you that shift+arrow
-  keys makes the X move in blocks of 10.
+* Go down a level and used :kbd:`d`, :kbd:`r` for :guilabel:`ramp`
+  to set a 10-wide row to be turned into ramps. Now is a good time
+  to remind you that shift+arrow keys makes the X move in blocks of 10.
 * Here’s how mine is laid out, I’ve dropped the top width of ramps
   first so that I can check I’m happy with how it will be laid out.
 
@@ -61,7 +61,7 @@ here as well, nice and close to the action, right? But before we do
 that, we need to remove the spare ramps. Those are the ramps which we
 don’t actually want to be part of the entrance slope.
 
-* Hit “d” and “z” for “remove ramps”.
+* Hit :kbd:`d` and :kbd:`z` for :guilabel:`remove ramps`.
 * Select all but the bottom line of ramps in the entrance L. Select all
   the ramps on the pit. You can’t see it, but all the designated ramps
   will be set brown – as in – job to be done! We need to remove all those
@@ -111,7 +111,7 @@ miasma! Cool huh? Now our dwarfs only have to walk across the hall to
 drop rubbish in a secure place, rather than walking all the way up to
 the surface to drop rubbish outside, where it’s dangerous. You might
 also want to make some statues at a masons to place them in the middle
-of the pit and to turn that area into an statue garden (“q” over a
+of the pit and to turn that area into an statue garden (:kbd:`q` over a
 placed statue). Dwarfs like to hang around statue gardens and since the
 bottom of that pit counts as outside it will help prevent cave adaption.
 
@@ -127,25 +127,29 @@ similar.
 
 Marksdwarfs go PEW PEW!
 =======================
+.. note::
+
+    Check out :reddit:`Mechanixm's guide <2k65yc>` if any of this is unclear.
+
 I’d feel bad if I didn’t spend more time on marksdwarfs as they are a
 very handy part of one’s army. So lets go over them a bit. First up,
 lets build some archery targets. I’ve got a corner of the storage room
 chosen. Do the same:
 
-* Hit “b”, “A” (or find “Archery Target” at the bottom).
+* Hit :kbd:`b`, :kbd:`A` (or find :guilabel:`Archery Target` at the bottom).
 * Place four-or-so targets roughly near to each other. Here are mine
   almost all built:
 
 .. image:: images/dftutorial9938.png
    :align: center
 
-* Hit “q” over the middle one when they’re built.
-* Hit “r” for “Make Archery Range”.
+* Hit :kbd:`q` over the middle one when they’re built.
+* Hit :kbd:`r` for :guilabel:`Make Archery Range`.
 * Increase the blue size until it covers each of the targets neatly,
-  hit “enter”
-* Look at the top right. You’ll see “Shoot from Left to Right”. Use
+  hit :kbd:`Enter`
+* Look at the top right. You’ll see :guilabel:`Shoot from Left to Right`. Use
   WASD to chose the proper direction. For me, I want them shooting down
-  (from where the dwarf is in my picture) so I hit “s”.
+  (from where the dwarf is in my picture) so I hit :kbd:`s`.
 * Job done! Range is now ready!
 
 Now we need some soldier types!
@@ -205,30 +209,6 @@ stepped on). End result is even if the bad guys make it close to my
 entrance as soon as they cross that plate, up pops the interior bridge
 and we’re safe and they’re stuck!
 
-A momentary distraction
-=======================
-While this constructing has been going on I have been digging up some
-obsidian stone. The obsidian can be found around the edge of the magma
-pool at all levels. Obsidian is going to be very handy! Why? Because
-when we go to the craftsdwarf’s workshop we can chose “Make rock sword”
-from the task menu. Obsidian short swords are as good as steel swords
-and they are easy to make. I like to use three of them in a weapon
-trap, very effective! Obisian objects are also more valuable than
-normal stone. You’d have to set the obsidian to be usable in the “z”
-“stone” menu, but once it is you could place a stockpile near a
-masons’s shop and using “q” on the stockpile, then “s” for “settings”,
-set it to be obsidian only and thus trick masons into using the
-obsidian to make some valuable furniture or crafts.
-
-If you try and dig out the obsidian you are likely to get a lot of
-“warm stone located” messages and have your digging stopped. Don’t
-worry if you do. Just set the stone to be dug again and carry on. As we
-can see all of the magma on the levels we’re digging we can be
-confident we’re not going to have magma burst in on us.
-
-.. image:: images/dftutorial9941.png
-   :align: center
-
 Bottom of the pit
 =================
 I’ve gone ahead and smoothed the bottom of the pit, put in the refuse,
@@ -261,14 +241,14 @@ constructed and thus now have access to this level. If my dwarfs wanted
 to go up here they’d have to walk on the tops of walls (walls come with
 a floor and a ceiling component, by the way, so the top of a wall
 counts as a floor). But wouldn’t it be better to have some floor? Yes!
-I agree! So I’m using the build, construct (“b”, “C”) menu to set a big
-floor to be built. Eventually I’ll ensure the whole area is built over.
+I agree! So I’m using the build, construct (:kbd:`b`, :kbd:`C`) menu to
+pave the floor. Eventually I’ll ensure the whole area is built over.
 But, if you do the same, do not put a floor over a wall top. This will
 prevent you from building a wall on that space. Walls can never be
 built on top of another construction. So leave the wall tops free and a
 wall all the way around on top of your existing walls. We’re building a
 tower you see! Also, make sure you leave one space clear of floor. This
-is where you can “b”, “C”, construct another set of steps going up.
+is where you can :kbd:`b`, :kbd:`C`, construct another set of steps going up.
 
 .. image:: images/dftutorial9944.png
    :align: center
@@ -303,8 +283,17 @@ about digging around and looking for more ore to smelt? How about
 building a :wiki:`well` so any injured dwarfs can be brought water more
 safely?
 
+You can also check out the tutorials in the index, for short chapters
+that cover a particular topic.  Generating a new world is always fun
+when your fort gets too stable!
+
 You might also consider a mega project like an enormous tower, castle,
 or a fortress entirely surrounded by magma. There are many options, and
 just surviving the increasingly severe raids from goblins and other
-critters can be a challenge. Good luck! And thanks for reading this far!
+critters can be a challenge.
+
+Good luck!
+
+*If you've read this far and the tutorial has helped you, why not*
+`support me <https://www.patreon.com/PeridexisErrant>`_ *on Patreon?*
 

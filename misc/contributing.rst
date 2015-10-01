@@ -134,7 +134,6 @@ TODO list
 items may be done in other orders for whatever reason.*
 
 #. Update all content for DF2014.  Preferably *before* the next DF release
-#. Use ``:kbd:`` and ``:guilabel:`` roles everywhere; see chapter one and two
 #. Update all images and make sure descriptions match
 #. Run everything through Hemmingway
 #. Make usage / reading a nicer experience for new players
