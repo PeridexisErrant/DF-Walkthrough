@@ -84,7 +84,7 @@ way) and they can even be used to fling bad guys into the air! Lets
 build on!
 
 * Go to your entrance.
-* Set a couple of squares to be dug down into using “d” and “h” for
+* Set a couple of squares to be dug down into using :kbd:`d` and :kbd:`h` for
   channel.
 * Maybe something like this will suit. Monsters can’t cross a pit.
 
@@ -93,7 +93,7 @@ build on!
 
 * Once it’s dug you’ll end up with a pit, trapping your dwarfs inside
   and outside. So lets move quickly and get this bridge built!
-* Hit “b” and then “g”, you will have one green square. Expand the
+* Hit :kbd:`b` and then :kbd:`g`, you will have one green square. Expand the
   bridge’s width to cover the width of the hall and make it one higher
   and deeper than the channel. It’s not really required to be that big, I
   just think it looks cooler. Here’s how mine will be laid out.
@@ -101,14 +101,15 @@ build on!
 .. image:: images/dftutorial9916.png
    :align: center
 
-* **DO NOT HIT ENTER** just yet (if you have, “q” over the bridge and
-  hit “x” to cancel the construction). Look at the top of the
-  placing/size window. See the text that says “Bridge (retracts)”? This
-  is where you can change the bridge to either retract (pretty much
+* Don't hit :kbd:`Enter` just yet (if you have, :kbd:`q` over the bridge and
+  hit :kbd:`x` to cancel the construction). Look at the top of the
+  placing/size window. See the text that says :guilabel:`Bridge (retracts)`?
+  This is where you can change the bridge to either retract (pretty much
   vanish) or to raise in one of the cardinal directions. Work through
-  “w”, “a”, “s”, “d” and “x” and see how the arrow changes. Me, I hit “x”
+  :kbd:`w`, :kbd:`a`, :kbd:`s`, :kbd:`d` and :kbd:`x` and see how the
+  arrow changes. Me, I hit :kbd:`x`
   as I want it to raise downwards, sealing my dwarfs into the fortress.
-* Hit “enter” and then select the stone you wish to build with.
+* Hit :kbd:`Enter` and then select the stone you wish to build with.
 * Your bridge now needs someone with architecture enabled to come and
   plan it, and then it needs masons to come place the stone. It will
   happen in due course.
@@ -126,29 +127,29 @@ with mechanics enabled. Follow along:
   dwarfs, who then went mad and killed most of the immigrants who arrived
   at his fortress, and who then died of thirst (he was to busy chasing
   immigrants to bother with drink)).
-* Hit “b”, “T”, chose “Lever”, place the lever in a corner of your
-  dining room, choosing a mechanism along the way.
+* Hit :kbd:`b`, :kbd:`T`, chose :guilabel:`Lever`, place the lever in a
+  corner of your dining room, choosing a mechanism along the way.
 * Wait for the lever to be built.
 * With the lever and bridge built you need to hook the lever up to the
   bridge.
-* Hit “q” over the lever.
-* Hit “a” and then “b” to link up the lever with a bridge.
+* Hit :kbd:`q` over the lever.
+* Hit :kbd:`a` and then :kbd:`b` to link up the lever with a bridge.
 * You only have one bridge right now so it should go right to it with a
   big yellow X over it, like this:
 
 .. image:: images/dftutorial9917.png
    :align: center
 
-* Hit “enter”, and then hit “enter” twice to select the two mechanisms
+* Hit :kbd:`Enter`, and then hit :kbd:`Enter` twice to select two mechanisms
   for the lever/bridge hookup (one at the bridge end, one at the lever
   end). Since we don’t have to worry about magma, chose any mechanism. If
   there was magma involved we’d want to be using bauxite mechanisms as
   they are magma proof.
 
 Now simply sit back and wait! Once the hook-up job is done (check by
-doing a “q” over your lever) have a bit of fun and go “q” and then “P”
-to “Pull the Lever”. It might take a few seconds, but hopefully someone
-comes over and pulls the lever promptly and then a few seconds later
+doing a :kbd:`q` over your lever) have a bit of fun and go :kbd:`q`, :kbd:`P`
+to :guilabel:`Pull the Lever`. It might take a few seconds, but hopefully
+someone pulls the lever promptly and then a few seconds later
 your bridge should be up. Here’s mine up!
 
 .. image:: images/dftutorial9918.png
@@ -161,10 +162,9 @@ I’m guessing! Pull the lever again and let the dwarfs get in and out of
 your fortress once more.
 
 …Er, a quick note about that. If your dwarfs are under the bridge when
-it comes down you you get this message (click for big):
+it comes down you you get this message:
 
-.. image:: images/dftutorial9919.png
-   :align: center
+    :guilabel:`Urdin Amalstinthad, Miner, has been crushed under a drawbridge.`
 
 This is an example of the :wiki:`Dwarven Atom Smasher <bridge>` in
 practice! Oopsie! Right, with that dwarf murdering job done, lets get
@@ -188,17 +188,17 @@ this? Some sort of grate might be handy, right?
 
 We could use a wall grate (constructable at a masons), but lets
 practice another technique. The last space we’ve dug to the magma
-should be smoothed, (“d”, “s”) and then carved, like this:
+should be smoothed, (:kbd:`d`, :kbd:`s`) and then carved, like this:
 
 .. image:: images/dftutorial9920.png
    :align: center
 
-From here we’re going to do something cunning. We’re going to “d”
-designate that same square of wall to be a “a”, “carve fortification”.
+From here we’re going to do something cunning. We’re going to :kbd:`d`
+designate that same square of wall :kbd:`a`, :guilabel:`carve fortification`.
 What happens then is that the wall will have slots cut in it so as to
 potentially let your crossbow dwarfs shoot out. But while we won’t have
 dwarfs down here, the holes will let magma through, but not monsters!
-So go “d” and “a” that same smoothed square.
+So go :kbd:`d` and :kbd:`a` that same smoothed square.
 
 While you wait, go to a mason’s workshop and get a floodgate built. It
 will be a boxy shaped thing with an X on it. This is what we’ll use to
@@ -214,21 +214,21 @@ all completed:
 So now what? Clearly we need to remove the stone. To do that we need to
 channel from above, which is relatively safe. Lets do that now:
 
-* Viewing your tunnel complex hit “d”, and then “h”.
+* Viewing your tunnel complex hit :kbd:`d`, and then :kbd:`h`.
 * Place your X over the first spot to be removed, like this:
 
 .. image:: images/dftutorial9922.png
    :align: center
 
 * Now go up a level and you will see your X near the edge of the magma.
-* Hit “enter” and move the cursor across three places, hit “enter
-  again”, the end result will look like this:
+* Hit :kbd:`Enter` and move the cursor across three places, hit :kbd:`Enter`
+  again, the end result will look like this:
 
 .. image:: images/dftutorial9923.png
    :align: center
 
 * Wait, the channel will be dug and magma will flow into your channels,
-  through your fortification grill (which you can’t see unless you “k”
+  through your fortification grill (which you can’t see unless you :kbd:`k`
   and place it over the spot, by the way). Awesome!
 
 .. image:: images/dftutorial9924.png
@@ -248,9 +248,9 @@ workshops access to the lovely hot stuff.
 
 Now, to build:
 
-* “b”, then “e” for smelters.
-* “l” for “Magma Smelter”.
-* Place the dark green X over your magma hole, hit “enter”.
+* :kbd:`b`, then :kbd:`e` for smelters.
+* :kbd:`l` for :guilabel:`Magma Smelter`.
+* Place the dark green X over your magma hole, hit :kbd:`Enter`.
 * Check out my finished magma smelter!
 
 .. image:: images/dftutorial9926.png
@@ -288,14 +288,14 @@ above our furnaces without having to walk all the way over to the
 central staircase? But how can we when we’ve dug out all this dirt? We
 have no chance at designating some up-stairs!
 
-But we can construct some. Using the “b”, “C” menu. Constructed stairs
+But we can construct some, using :kbd:`b`, :kbd:`C`. Constructed stairs
 and ramps can be put anywhere, as long as they are connected to the
 ground below them or to one side. The same rule applies to floors, and
 walls, as you saw earlier. So lets get some more stairs going.
 
-* Hit “b”, and then “C”.
-* Chose the “Up Stair” option.
-* Chose a spot, hit “enter”, select the materials, hit “enter”.
+* Hit :kbd:`b`, and then :kbd:`C`.
+* Chose the :guilabel:`Up Stair` option.
+* Chose a spot, hit :kbd:`Enter`, select the materials, hit :kbd:`Enter`.
 * Here are two stairs set to be constructed, with one more due to be set:
 
 .. image:: images/dftutorial9928.png
@@ -303,27 +303,27 @@ walls, as you saw earlier. So lets get some more stairs going.
 
 The stairs will quickly be done, but they won’t be in use. Why not? Go
 up a level! There’s no down stair! Thankfully, because there’s dirt
-between the floor above and the floor below, we can use the “d”, “j”
-(for “downward stairway”) and the steps will be dug, connecting up with
+between the floor above and the floor below, we can use the :kbd:`d`, :kbd:`j`
+(for :guilabel:`downward stairway`) and the steps will be dug, connecting to
 the up-stairs below.
 
 If there wasn’t dirt, and there was space instead, we would have to
-“d”, “C”, construct some stairs down.
+:kbd:`d`, :kbd:`C`, construct some stairs down.
 
 Now would be a good time to answer a common question is how you remove
 steps and walls in Dwarf Fortress. You’ve got a few ways, one of which
 will always work:
 
-“d”, “n” for “remove construction”. All items that are constructed will
-flash with a green C. Select in the usual way and the constructed items
-will be smashed down.
-“d”, “h” for “channel”. If you’re above something that has been dug and
-you want it removed, you can channel the dug space away. To fill the
-gap you’ll either need to construct a floor on top or you’ll need to
-construct something in there.
-You can dig your way through anything constructed, thus removing it.
+* :kbd:`d`, :kbd:`n` for :guilabel:`Remove construction`. All items that
+  are constructed will flash with a green C. Select in the usual way
+  and the constructed items will be smashed down.
+* :kbd:`d`, :kbd:`h` for :guilabel:`Channel`. If you’re above something
+  that has been dug and you want it removed, you can channel the dug space
+  away. To fill the gap you’ll either need to construct a floor on top
+  or you’ll need to construct something in there.
+* You can dig your way through anything constructed, thus removing it.
 
 There you go! Magma! In our final lesson we’ll cover building defences
-and siting a new entrance! Hope you’ve had fun, now go away and make a
+and a new entrance! Hope you’ve had fun, now go away and make a
 ton of awesome steel items and set some more traps up.
 
