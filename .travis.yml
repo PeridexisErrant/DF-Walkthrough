@@ -8,3 +8,5 @@ script:
   - python misc/lint.py
   - make html
 sudo: false
+notifications:
+  email: false

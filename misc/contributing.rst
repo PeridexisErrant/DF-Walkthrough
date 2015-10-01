@@ -81,7 +81,7 @@ Style
 -----
 Use clear, direct, and simple language.  Avoid jargon or the passive voice.
 I find the `hemmingway editor <http://www.hemingwayapp.com>`_ useful;
-I often ignore but always conside it's suggestions.
+I often ignore but always consider it's suggestions.
 
 Keep all lines to 80 characters or less.  Sphinx will automatically join
 everything between blank lines into one paragraph, and short lines
@@ -134,7 +134,7 @@ TODO list
 items may be done in other orders for whatever reason.*
 
 #. Update all content for DF2014.  Preferably *before* the next DF release
-#. Use ``:kbd:`` and ``:guilabel`` roles everywhere; see chapter one and two
+#. Use ``:kbd:`` and ``:guilabel:`` roles everywhere; see chapter one and two
 #. Update all images and make sure descriptions match
 #. Run everything through Hemmingway
 #. Make usage / reading a nicer experience for new players

@@ -3,10 +3,16 @@ It's a trap!
 ############
 
 
-I promised traps, and damn traps we will have! And not of the Star Wars
-or Thai kind, but of the Dwarf Fortress kind! I’m two bottles of beer
-and a glass of absinthe into the evening, so lets get on with it before
-things get worse!
+Traps form the majority of many people’s defences, so it’s best we get
+sorted and make some. First up, we will need a lot of mechanisms, so go
+find that mechanic’s workshop and fill it’s job queue with mechanisms.
+They’ll end up in a finished goods pile when done.
+
+Next, go to the Carpenter’s workshop and add a ton of cages (:kbd:`j` is the
+shortcut from the “Add Task” menu). Try and get ten built. Add another
+carpenter’s workshop to your workshop floor if you fancy, makes it
+easier to queue up more than a few of any item and get things made
+faster.
 
 Defence and Traps!
 ==================
