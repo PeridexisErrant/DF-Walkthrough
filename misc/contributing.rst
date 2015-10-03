@@ -56,7 +56,14 @@ Authors and Contributors
     Anyone who's contributed more than a bug report should be here -
     add yourself if you're not!*
 
-PeridexisErrant and TinyPirate.
+=================== ===========================================================
+Person              Contribution
+=================== ===========================================================
+PeridexisErrant     Project leader, does some of everything else too
+TinyPirate          Author of old "Getting Started with Dwarf Fortress"
+                    series, inspiration for project
+/u/buschwacker      Contributed many images
+=================== ===========================================================
 
 
 Contribution standards

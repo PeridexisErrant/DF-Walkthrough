@@ -55,7 +55,7 @@ your next fortress.
 
 This is how I set things up:
 
-.. image:: images/dftutorial43.png
+.. image:: images/03-dig.png
    :align: center
 
 While it’s being dug, go add a bunch of beds to the carpenter’s shop,
@@ -77,7 +77,7 @@ can be easier than scrolling.
 Here are my rooms partly completed. If you look closely you can see a
 slacker dwarf having a nap.
 
-.. image:: images/dftutorial44.png
+.. image:: images/03-beds-layout.png
    :align: center
 
 Can spot my chairs, tables, beds and doors? Pretty aren’t they!? You
@@ -167,10 +167,10 @@ bedrooms, so our dwarves will come and claim one:
 
 You can assign the bedroom to a specific dwarf, but unless you want to
 play favorites there's no need - if a dwarf wants a nap and doesn't
-have a bedroom, they'll claim one of the unowned ones.  One that
+have a bedroom, they'll claim one of the unowned ones.  Once that
 happens, the bedroom status will now look something like this:
 
-.. image:: images/dftutorial46.png
+.. image:: images/03-beds-dug.png
    :align: center
 
 If you get confused about a bedroom (or any room’s status), just hit
@@ -189,7 +189,7 @@ Workshop fun!
 Lets set up more workshops. First, put another mason's workshop in with
 the other one. It will be handy in the long run, I am sure. Set
 up a couple of carpenter's workshops in the room next door. While
-you’re at it, set-up a big wood pile (:kbd:`p`, :kbd:`w`). The next thing to do
+you’re at it, set up a big wood pile (:kbd:`p`, :kbd:`w`). The next thing to do
 is to set up some more  piles. How about we go through and make a
 :guilabel:`Finished Goods` pile? Build it using :kbd:`p`, :kbd:`g`.
 Lets keep making stockpiles in those rooms. A few squares for cloth (:kbd:`h`),
@@ -202,7 +202,7 @@ These are particularly handy and profitable workshops, but more on them later!
 
 This is how mine looks:
 
-.. image:: images/dftutorial47.png
+.. image:: images/03-workshop.png
    :align: center
 
 That’s all for now, except before I go I have some homework for
