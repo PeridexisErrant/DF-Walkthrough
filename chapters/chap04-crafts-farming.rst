@@ -10,7 +10,7 @@ your homework. If you look below, you’ll see I have…
 Extreme Home Makeover: Dwarf Edition!
 =====================================
 
-.. image:: images/dftutorial48.png
+.. image:: images/04-crafts.png
    :align: center
 
 …Lots of Crafts! I’ve gone through and completed all of the tasks at
@@ -45,7 +45,7 @@ to want to eat it.
 
 Here’s how I’ve plotted things out:
 
-.. image:: images/dftutorial49.png
+.. image:: images/04-booze-food.png
    :align: center
 
 Once that digging is done, set up the big food storage hall as a food
@@ -89,7 +89,7 @@ available to us.
 To achieve our goals we first need to dig some handy exit to the
 outdoors. Perhaps near our existing farm. This is what I did:
 
-.. image:: images/dftutorial53.png
+.. image:: images/04-dig1.png
    :align: center
 
 I’ve expanded the farm room a little and set a passage to the outside
@@ -106,13 +106,13 @@ you can see my miners hard at work  stripping away the outside ramps so
 there’s essentially a sharp drop between the level above and this
 level.
 
-.. image:: images/dftutorial54.png
+.. image:: images/04-dig2.png
    :align: center
 
 While you’re at it, you could tidy up the outside edge of the fortress
 with digging and ramp removal. Here’s my much tidier fortress entrance:
 
-.. image:: images/dftutorial55.png
+.. image:: images/04-dig3.png
    :align: center
 
 Later on we might incorporate some complex defenses into this area.
@@ -158,7 +158,7 @@ Once you’ve got this under way, build two lengths of wall across to the
 right go down a length and a bit, and back to the cliff face.
 Here’s how my outdoor farm plot looks so far:
 
-.. image:: images/dftutorial56.png
+.. image:: images/04-build1.png
    :align: center
 
 Isn't it coming along nicely? Soon we’ll be able to hide
@@ -171,16 +171,9 @@ patchy farm plot. Also, if there are any trees in the way of a wall
 being built you won’t be able to place the wall. Get them cleared and
 the problem will go away.
 
-Oh, I’ve just noticed. Our farm plots will have holes in them anyway,
-there are white blobs on the ground which a farm square won’t be built
-on. If you hit :kbd:`k` and move the cursor around you’ll see that those
-white spots are limestone. Clearly plants don’t like clinging to rock
-so no plot will grow there. Never mind, a holey farm isn’t really a big
-problem.
-
 Here’s my private outdoors farm yard with the farm plots built as well:
 
-.. image:: images/dftutorial57.png
+.. image:: images/04-build2.png
    :align: center
 
 There you go! Beautiful! Now, just like farms inside, you need to
@@ -201,51 +194,27 @@ While I remember things, lets take a moment to build a wall along the
 top edge above our outside farm. We don’t want any goblins walking up
 to the edge of the cliff, looking down, and shooting up our farmers
 with their crossbows! So go up a level, using good-old :kbd:`<` and
-plan out your wall. Here I’ve built a wall (after stripping trees,
+plan out your wall. Here I’ve built a wall,
 which should once and for all block off any possible approach to my farm.
 
-.. image:: images/dftutorial58.png
+.. image:: images/04-build3.png
    :align: center
 
-But what’s this, we have a problem! Can you spot what it is? Yup, our
-stupid dwarf has gone and got himself stuck on the wrong side of the
-wall. He can’t get out! Now, we could use the :kbd:`b`, :kbd:`C` menu to
-construct some up stairs to him (and then down stairs to connect from
-this level down to the upstairs), but how about I show you a handy trick…
+There's one last thing we should take care of today - hungry animals!
+It's pretty common for livestock to need grass (or cavern moss, or...)
+to graze on, so we'd better set up a pasture zone.
 
-You see, dwarfs getting stuck will happen to you a lot unless you take
-countermeasure. Here’s how you fix our current problem, and how prevent
-it from happening again:
+* Head up near the wagon, where there's open space and plenty of grass.
+* Hit :kbd:`i` for a zone, select a large area, then :kbd:`n` for pasture.
+* Hit :kbd:`N`, then scroll with :kbd:`=` and select grazing animals
+  with :kbd:`Enter`.
 
-* Hit :kbd:`d`
-* Hit :kbd:`n` for :guilabel:`Remove Building`.
-* Select a single wall space and hit :kbd:`Enter`.
-* Once the wall space is removed you’ll have a gap. On the inside of
-  the wall gap (where we don’t want our dwarf to stand), set a wall to be
-  built that completely covers the gap.
-* Resume the game and then immediately pause it.
-* Hit :kbd:`q` and move down each piece of your fake-wall and hit :kbd:`s` to
-  :guilabel:`Suspend Construction` of each segment. Dwarfs don’t like standing
-  where buildings are due to be placed, so this means when our dwarf
-  comes back to fill in the gap he won’t lock himself in again.
-
-Here’s how my gap and 'fake' wall look. You can see my X over a fake
-wall segment, and on the right, the wall segment is suspended:
-
-.. image:: images/dftutorial59.png
+.. image:: images/04-pasture.png
    :align: center
 
-You can now build a single wall space to close the gap and our dwarf
-won’t get trapped. Once you’ve done that, go back over each wall space
-with :kbd:`q` and hit :kbd:`x` to remove the suspended wall spaces. Look here,
-job done! Dwarfs safe!
+Done!  Our livestock will now happily graze under the trees, turning
+grass into a foundation of dwarven industry and cuisine.
 
-.. image:: images/dftutorial60.png
-   :align: center
-
-And when I go down and look at my fresh outside farm plot, something is
-being planted! Great!
-
-I'll see you next time in, to look at expanding our industries to something
+I'll see you in chapter five to look at expanding our industries to something
 truly impressive!
 
