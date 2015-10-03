@@ -51,10 +51,8 @@ That's it!
 
 Authors and Contributors
 ========================
-.. note to authors
-
-    Anyone who's contributed more than a bug report should be here -
-    add yourself if you're not!*
+*Anyone who's contributed more than a bug report should be here -
+add yourself if you're not!*
 
 =================== ===========================================================
 Person              Contribution
@@ -63,6 +61,7 @@ PeridexisErrant     Project leader, does some of everything else too
 TinyPirate          Author of old "Getting Started with Dwarf Fortress"
                     series, inspiration for project
 /u/buschwacker      Contributed many images
+/u/Mechanixm        Wrote several excellent tutorials
 =================== ===========================================================
 
 
@@ -142,6 +141,7 @@ items may be done in other orders for whatever reason.*
 
 #. Update all content for DF2014.  Preferably *before* the next DF release
 #. Update all images and make sure descriptions match
+#. Import https://www.reddit.com/r/MechGuides (by invitation)
 #. Run everything through Hemmingway
 #. Make usage / reading a nicer experience for new players
 #. Make contributing easier and more rewarding
