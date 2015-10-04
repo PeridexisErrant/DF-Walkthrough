@@ -56,6 +56,20 @@ and the Bay12 Forums will be your best friends.
    tutorials/*
 
 
+Masterclass
+===========
+A masterclass is a tutorial on an advanced topic, aimed at experienced
+players.  You'll be taken through some of the most difficult challenges
+DF offers, and see how an expert does things.
+
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   masterclass/*
+
+
 Other Information
 =================
 

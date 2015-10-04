@@ -11,6 +11,7 @@ from os.path import *
 import sys
 
 text_extensions = ('rst', 'md', 'txt', 'html', 'css', 'js')
+dirs = ['chapters', 'tutorials', 'masterclass']
 
 
 def error(fname, lineno, issue):
@@ -48,7 +49,6 @@ def unused_images(path):
     """Check that all files in image subdirs are references in the text."""
     print('Checking for unused images...')
     failed = False
-    dirs = ['chapters', 'tutorials']
     for d in dirs:
         text = ''
         for fname in glob(os.path.join(d, '*.rst')):
@@ -71,4 +71,6 @@ def unused_images(path):
 if __name__ == '__main__':
     # lint everything in the parent directory, wherever the script is run from.
     p = relpath(join(dirname(__file__), '..'))
-    sys.exit(lint(p) or unused_images(p))
+    failed = lint(p)
+    failed |= unused_images(p)
+    sys.exit(failed)
