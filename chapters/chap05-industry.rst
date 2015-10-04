@@ -92,7 +92,7 @@ With the new stairs dug out (providing easy access to all the space
 we’re going to create for our production dwarves) lets make a massive
 space for them to stockpile goods. Here’s how much I dug out:
 
-.. image:: images/dftutorial83.png
+.. image:: images/05-storage.png
    :align: center
 
 In case you’re wondering, that’s about a 40×40 box with our first
@@ -105,7 +105,7 @@ room awesome! You see, dwarves love to spend time in an attractive
 meeting hall. Right now mine is packed with loafers. They clearly need
 a bit more room! A bit of digging will sort that:
 
-.. image:: images/dftutorial84.png
+.. image:: images/05-meeting1.png
    :align: center
 
 Once the room is expanded, fit doors and some more tables and chairs.
@@ -114,7 +114,7 @@ resize the room. As you may remember we set the room up from one of the
 tables. But if you :guilabel:`q` over the dining room table now you’ll see it
 doesn’t fill the space:
 
-.. image:: images/dftutorial85.png
+.. image:: images/05-meeting2.png
    :align: center
 
 The room will be more valuable and widely used if it’s set to be
@@ -124,7 +124,7 @@ bigger, to fill this space. Lets do that now:
 * Hit :kbd:`r` for :guilabel:`Resize Room`.
 * Using :kbd:`=` expand the room size till you fill the space:
 
-.. image:: images/dftutorial86.png
+.. image:: images/05-meeting3.png
    :align: center
 
 * Hit :kbd:`Enter`
@@ -145,7 +145,7 @@ with fine carvings all about our fortress! To do this:
 The room will now look all flashy like this (until you back out of the
 menu, anyway):
 
-.. image:: images/dftutorial87.png
+.. image:: images/05-meeting4.png
    :align: center
 
 Any dwarf with the :guilabel:`Stone detailing` labour on will now set about
@@ -165,7 +165,7 @@ space upstairs you can pretty much set up a space for everything it’s
 possible to make a pile for (except refuse, of course, which we want to
 be outside). So go do that now. Here’s how mine is laid out.
 
-.. image:: images/dftutorial88.png
+.. image:: images/05-all-stockpiles.png
    :align: center
 
 Pretty complete huh? Well, almost, I’m sort of tempted to make a stone
@@ -194,7 +194,7 @@ Nobles usually want two-to-four rooms. So lets make things easy and
 give them all four rooms of size 3×3 or so, that should be good enough.
 Here’s how I have planned out my bedroom level:
 
-.. image:: images/dftutorial89.png
+.. image:: images/05-big-bedrooms.png
    :align: center
 
 A couple of points. Firstly, the whole right side of my new bedroom
