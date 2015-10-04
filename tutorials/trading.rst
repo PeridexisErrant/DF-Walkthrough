@@ -23,19 +23,11 @@ to access. Often people build them close to the fortress entrance, but
 there’s no reason you couldn’t build a trade depot deep inside your
 fortress to keep it nice and safe.
 
-For now, we’re going to enlarge the space we have upstairs with a
-little digging and get this depot set up. Here’s what I’ve set to be
-dug out:
+For this tutorial, we'll just set up the depot outside.  You can
+build it wherever you want, so long as it's accessible to wagons!
 
-.. image:: images/dftutorial50.png
-   :align: center
-
-Once the space is dug out, hit “b” and then “D” for “Trade Depot”,
-note, that’s a capital-d, not the usual lower case “d”. Place it near
-the back. Here’s mine:
-
-.. image:: images/dftutorial51.png
-   :align: center
+* Hit :kbd:`b`, :kbd:`D` for :guilabel:`Trade Depot` (remember that
+  keys are case-sensitive, so that's :kbd:`Shift`-:kbd:`d`)
 
 Now that we have the depot up we can expect to see traders turn up to
 unload their goods here now and then. To trade with them you :kbd:`q` over
@@ -57,7 +49,7 @@ depot up, they’ll soon make themselves at home in your depot. They’ll
 unload all their goods and stand around waiting for something to
 happen. This is how it will look when traders have arrived and unloaded:
 
-.. image:: images/dftutorial61.png
+.. image:: images/trading-caravan.gif
    :align: center
 
 Look at them, filling our trade depot with their mess! Lets get trading
@@ -74,13 +66,13 @@ Essentially, trading is a five step process:
 #. Deal with the trade liaison and his questions.
 #. Wave goodbye to the traders and enjoy your loot!
 
-So lets get through these stages! First up, move goods. Go “q” over the
+So lets get through these stages! First up, move goods. Go :kbd:`q` over the
 trade depot, and with traders in there, the options will be quite
 different to what you see when it’s empty. What we’re looking for is
-hitting “g” for “Move goods to/from the depot”. Do it and you’ll get
+hitting :kbd:`g` for :guilabel:`Move goods to/from the depot`. You’ll get
 this screen:
 
-.. image:: images/dftutorial62.png
+.. image:: images/trading-move-goods.png
    :align: center
 
 This is a list of everything in our fortress. On the left we have item
@@ -91,32 +83,28 @@ way inside – remembering the 3-wide corridor or ramp all the way to the
 depot, of course.
 
 Don’t worry about all of this detail for now, just scroll down to
-“Crafts” using the down arrow key. Once you’re there, this is what
-you’ll see:
+:guilabel:`Crafts` using :kbd:`↓`. Once you’re there, this is what you’ll see:
 
 .. image:: images/dftutorial63.png
    :align: center
 
 What do you see? All of the crafts we’ve been making listed on the
 right! You’ll also notice weird symbols to the left and right of each
-named item, these are the quality symbols. Don’t worry about what they
-mean as the only one worth remembering is the “masterwork” quality
-symbol, which looks like a pile of metal bars. Later on you may want to
+named item, these are the quality symbols. Later on you may want to
 manage the quality of goods your dwarfs use, especially weapons, so
-knowing that the pile of bars = much good item, is worth remembering.
+knowing that :guilabel:`☼` == much good item, is worth remembering.
 
 Now we want to move these goods to the trade depot so we can trade them
-away. I mean really, how many “Limestone earrings” do we really need?
-So, hit the “right arrow” to move to the item list (rather than the
-category list) and then hit enter. On the right you’ll see “Pending”
-next to the item we’ve selected. Scroll down and set most of the items
-to “Pending”.
+away. I mean really, how many :guilabel:`Sandstone earrings` do we really need?
+So, hit the :kbd:`→` to move to the item list (rather than the
+category list) and then hit :kbd:`Enter`. On the right you’ll see
+:guilabel:`Pending` next to the item we’ve selected. Scroll down and
+set most of the items to :guilabel:`Pending`.
 
-At the bottom of the list you’ll see some “Finished Goods” bins. This
+At the bottom of the list you’ll see some :guilabel:`Finished Goods` bins. This
 is good! Moving a single bin full of stuff is much better than moving
 dozens of items one by one! How do I know there’s heaps of stuff in
-those bins? Because I am your god of course! Or perhaps I hit “v” with
-a bin highlighted…
+those bins? I hit :kbd:`v` with a bin highlighted!
 
 .. image:: images/dftutorial64.png
    :align: center
@@ -124,10 +112,10 @@ a bin highlighted…
 You don’t need to select those individual items to move, selecting the
 bin in the menu above will move the bin and everything it contains.
 
-Right! One we “space” back out we need to hit “F9” to get back to the
-game, confirming our move orders. From here the trade depot is still
-selected so lets take the chance to hit “r” which cycles the trader
-status. It now says “Trader requested at depot”, which is what we’re
+Right! Once we :kbd:`Esc` back out our dwarves will start moving the
+trade goods we ordered. From here the trade depot is still
+selected so lets take the chance to hit :kbd:`r` which cycles the trader
+status. It now says :guilabel:`Trader requested at depot`, which is what we’re
 aiming for. The trader should now consider heading up to talk to the
 traders.
 
@@ -137,29 +125,29 @@ trade goods seems to be set at quite a high priority, so it shouldn’t
 take long for them all to be offloaded. Of course, it would be much
 quicker if I had more bins, that way a dwarf isn’t wasted carrying a
 single earring, and we’ll have lots of wasted time with this hauling!
-More bins are on my “to do” list.
+More bins are on my to-do list.
 
-After a minute, hit “q” again and move over the trade depot, you’ll see
-the status of the depot. If “t: Trade” is grey, then the trader hasn’t
-got there yet. Below the menu field it tells me my trader is “On
-break”.. oh no, I lie, now he’s asleep! Hurry up dood, I’ve got crap to
+After a minute, hit :kbd:`q` again and move over the trade depot, you’ll see
+the status of the depot. If :guilabel:`t: Trade` is grey, the trader hasn’t
+got there yet. Below the menu field it tells me my trader is :guilabel:`On
+break`. oh no, I lie, now he’s asleep! Hurry up dude, I’ve got crap to
 offload to the visitors!
 
 While you’re waiting, why not go and set a bunch of barrels and bins
 and booze to be made. You can never, ever have too much of any of that
 stuff!
 
-Oh, look! Trader dood finally bothered to turn up to trade! See, it
-says “Trade at Depot” for his current job, and the “Trade” option is
-white and therefore, usable.
+Oh, look! The trader finally bothered to turn up to trade! See, it
+says :guilabel:`Trade at Depot` for his current job, and the :guilabel:`Trade`
+option is white and therefore, usable.
 
-.. image:: images/dftutorial65.png
+.. image:: images/trade-q-summary.png
    :align: center
 
-Now hit “t” and we’ll be taken to the trade screen, which looks like
+Now hit :kbd:`t` and we’ll be taken to the trade screen, which looks like
 this:
 
-.. image:: images/dftutorial66.png
+.. image:: images/trade-trade-screen.png
    :align: center
 
 On the left, we have what the traders are offering. On the right, we
@@ -168,10 +156,10 @@ away. Left and right arrows move between the panels and up and down
 through the list. Remember, don’t trade bins or wooden items to elves!
 Not sure if they’re elves? Look at the top of the screen and you’ll see
 who you’re trading with, in my case I’m trading with traders from
-“Riseilime”. If I “space” back out of the trading to the main menu and
-hit “c” I will see a list of  in this world civilisations. I see that
-Riseilime is an elf civilisation. I can hit “enter” and learn more
-about it and then “Tab” through more info. Interesting.
+“Riseilime”. If I :kbd:`Esc` back out of the trading to the main menu and
+hit :kbd:`c` I will see a list of  in this world civilisations. I see that
+Riseilime is an elf civilisation. I can hit :kbd:`Enter` and learn more
+about it and then :kbd:`Tab` through more info. Interesting.
 
 In case you’re wondering you can actually read all of the history of
 each of those civilisations in :wiki:`legends` mode. There’s some crazy
@@ -187,7 +175,7 @@ wooden bins, hit enter on all those crafts.
    :align: center
 
 As you can see, I’ve got lots of stuff up for trade (marked with a
-“T”). On the left bottom there it tells me how much my junk is worth,
+:guilabel:`T`). On the left bottom there it tells me how much my junk is worth,
 4980! That’s a lot of loot I can get off the elves! On the right,
 allowed weight is 14. This number starts much higher and drops as you
 add goods and represents the amount of weight the traders can take away
@@ -201,23 +189,23 @@ Oh, definitely buy a few cloth or leather bags (what seeds get stored
 in) and some rope (for setting up animals as guards). Type of rope or
 bags doesn’t really matter. So much shopping to do!
 
-One important point! Your dwarfs can’t wear anything “Narrow” or
-“Large”, so don’t buy it.
+One important point! Your dwarfs can’t wear anything :guilabel:`Narrow` or
+:guilabel:`Large`, so don’t buy it.
 
 Once you’ve chosen all that’s useful you should have a look at the
-bottom left, “Trader Profit”. If it’s more than a token tip you will
+bottom left, :guilabel:`Trader Profit`. If it’s more than a token tip you will
 want to un-select some of your own trade goods. No point in giving away
 lots of junk for free!
 
-When you’re happy with your trading, hit “t”, the trade will either go
-through, or you’ll get a counter offer. “Enter” lets you consider the
-counter offer, which you can adjust down more in your favour. Hit “t”
+When you’re happy with your trading, hit :kbd:`t`, the trade will either go
+through, or you’ll get a counter offer. :kbd:`Enter` lets you consider the
+counter offer, which you can adjust down more in your favour. Hit :kbd:`t`
 again and hopefully the trade completes. Keep working at it until it
-pans out. Until your trader is experienced your “tip” could be quite
+pans out. Until your trader is experienced your tip could be quite
 large.
 
-If the trade completes you will see the message “[name] seems pleased
-with the trading”. Job done! Hit “space” to go back to the local map
+If the trade completes you will see the message :guilabel:`[name] seems pleased
+with the trading`. Job done! Hit :kbd:`Esc` to go back to the local map
 and let the game resume. You don’t need to do anything else now, dwarfs
 will come and haul your spoils and the traders will leave happy with
 their trinkets. Even better, they will take news of your awesome
@@ -227,9 +215,9 @@ attract even more immigrants. Super!
 The next likely thing to happen is that the trade liaison will want to
 talk to you about what goods you want. Feel free to suggest to the
 trader items you’d like (using the arrow keys to scroll and upgrade the
-“Want” of an item). Note, the more you want the item, the higher the
+priority of an item). Note, the more you want the item, the higher the
 price they will charge when they bring it, so mild suggestions for
-preferred items are probably better than setting the “want” meter all
+preferred items are probably better than setting the meter all
 the way over to the right.
 
 The trader will also tell you what they’re interested in getting in
@@ -240,6 +228,4 @@ for most things you want, let alone junk from dead invading goblins
 etc. If/when you do get those screens, read the screen prompts
 carefully, and experiment! It can’t hurt!
 
-That’s all for now folks. Next time we’ll cover managing your dwarfs,
-which is an interesting challenge of immense potential depth. But don’t
-worry it’s not that hard, really!
+That’s pretty much all there is to it!
