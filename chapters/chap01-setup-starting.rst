@@ -52,7 +52,7 @@ movie. Well done! I can tell you’ll go far! Next step is to hit
 :kbd:`Enter` on :guilabel:`Continue Playing`, which should be
 highlighted. You’ll then be presented with this screen.
 
-.. image: images/01-save-list.png
+.. image:: images/01-save-list.png
    :align: center
 
 This is the save game list, which gets cluttered very quickly as

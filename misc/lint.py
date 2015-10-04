@@ -4,6 +4,7 @@
 Any other automatic checks should be in this file too.
 """
 
+from glob import glob
 from io import open
 import os
 from os.path import *
@@ -40,11 +41,34 @@ def lint(path):
     if failed:
         print('Use your text editor to convert tabs to spaces, wrap lines '
               'or trim trailing whitespace with minimal effort.')
-        sys.exit(failed)
-    print('All files are OK')
+    return failed
+
+
+def unused_images(path):
+    """Check that all files in image subdirs are references in the text."""
+    print('Checking for unused images...')
+    failed = False
+    dirs = ['chapters', 'tutorials']
+    for d in dirs:
+        text = ''
+        for fname in glob(os.path.join(d, '*.rst')):
+            with open(fname, encoding='utf-8') as f:
+                text += f.read()
+        for img in glob(os.path.join(d, 'images', '*.*')):
+            img = os.path.basename(img)
+            if img == 'Thumbs.db':
+                continue
+            markup = '.. image:: images/{}'.format(img)
+            if markup not in text:
+                failed = True
+                print('Error:  image not referenced, {}/{}/{}'.format(
+                      d, 'images', img))
+    if failed:
+        print('Use or or delete these images.')
+    return failed
 
 
 if __name__ == '__main__':
     # lint everything in the parent directory, wherever the script is run from.
     p = relpath(join(dirname(__file__), '..'))
-    lint(p)
+    sys.exit(lint(p) or unused_images(p))

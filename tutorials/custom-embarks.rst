@@ -16,7 +16,7 @@ now is selecting :guilabel:`Prepare for your journey carefully` from
 the embark menu. You will now be presented with your list of dwarfs
 and the skills they can access.
 
-.. image:: images/14_Dwarf_Fortress_Embark_01.png
+.. image:: images/14_dwarf_fortress_embark_01.png
    :align: center
 
 Have a fiddle with your controls. The left-right arrows move between
@@ -52,7 +52,7 @@ When you’re done, (you may have to hit :kbd:`Esc` to head back out of
 the menu), hit :kbd:`Tab` to go to the item list. Many items will be
 on your list already, on the left, with animal options on the right.
 
-.. image:: images/14_Dwarf_Fortress_Embark_02.png
+.. image:: images/14_dwarf_fortress_embark_02.png
    :align: center
 
 As in the last menu, use the arrows to move left and right and the up
@@ -70,7 +70,7 @@ for the rest of the items, that depends on your strategy. For now, hit
 :kbd:`n` for :guilabel:`New`. You’ll be taken to a huge menu of
 purchasable items.
 
-.. image:: images/14_Dwarf_Fortress_Embark_03.png
+.. image:: images/14_dwarf_fortress_embark_03.png
    :align: center
 
 Lets add some turtles to the list of stuff we’re going to take. Scroll
@@ -88,7 +88,7 @@ only one option, :guilabel:`Dwarven Wine`. You’ll note that the
 :guilabel:`Drinks` part of the menu is highlighted, you’ll need scroll
 across :guilabel:`Dwarven Wine`, then hit :kbd:`Enter`.
 
-.. image:: images/14_Dwarf_Fortress_Embark_04.png
+.. image:: images/14_dwarf_fortress_embark_04.png
    :align: center
 
 You can now increase and decrease the number in the usual fashion.
