@@ -68,7 +68,7 @@ completed this tutorial, ok?! For now, get back to work!
 * Do this a few times, you can see below how I’ve set a few traps to be
   built.
 
-.. image:: images/dftutorial96.png
+.. image:: images/06-traps1.png
    :align: center
 
 This is hardly an impressive defence, but it will do for now. With luck
@@ -84,6 +84,12 @@ Smelting and other dwarfy things!
 This wouldn’t be a *dwarf* fortress if we didn’t fill the place with
 the clang of forge hammers and the stink of furnaces, right? Lets have
 some fun then and make some sharp things to hurt our enemies!
+
+.. note::
+
+    If you haven't dug up any :guilabel:`Magentite` yet, this is a good
+    time to go find it - it's a form of iron ore, and we can't smelt iron
+    without any ore!
 
 First up, let me point out that item production can be fairly
 confusing. Essentially what we’re going to do is turn some wood into
@@ -117,10 +123,8 @@ think spinning disks from Indiana Jones! So follow along:
   downstairs out you may have gold to smelt too!
 
 Your dwarfs should be pretty busy now, hauling charcoal, wood, ores and
-bars around. If things aren’t moving quick enough turn off the hauling
-jobs for anyone involved in your metalworking industry. While you’re at
-it, make sure you’ve got enough wood around for charcoal by cutting
-more down outside!
+bars around. While you’re at it, make sure you’ve got enough wood around
+for charcoal by cutting more down outside!
 
 If you want to check your progress, go look at your Bar/Block stockpile
 and see what is being built up. If you suspect all of your production
@@ -144,35 +148,22 @@ make bags. Bags are very handy for storing seeds and processed plants,
 you can never have too many of them. They’re like barrels and bins in
 that way.
 
+I also just noticed that our farm entrance was entirely undefended,
+so I added some doors and cage traps.  Hopefully that'll be enough!
+
+.. image:: images/06-traps-extra.png
+   :align: center
+
+
 Back to the iron!
 =================
-With a few iron bars made, head on back to the smelter. Go and :kbd:`a`,
-:guilabel:`Add new task`. You should now see a new task listed,
-:guilabel:`Make Pig Iron Bar`.
-Pig Iron is made out of one iron bar and one piece of flux material
-(eg, limestone, which we’ve got a lot of). Next on the production chain
-for us will be steel (which requires a pig iron bar an an iron bar and
-a flux material), which is second only to Adamantium in sharp
-awesomeness, and will let us make some great weapons, trap components
-and armor.
-
-Before your imagination gets carried away, go produce a lot of iron
-bars and a dozen or so pig iron bars. Check in here again when you’re
-done.
-
-Right, with iron and pig iron bars complete, go back to your smelter
-and check the :guilabel:`Add tasks` menu. You should now see steel as a
-smelting option! Smelt up a half-dozen steel bars. And while you’re at
-it, build a lot more cages and mechanisms and put at least half-a-dozen
-cage traps around your entrance. Come back once you’ve got a bunch of
-steel bars made.
-
-Ok! Now we’re ready to rock! I hope, at this point, that you’ve not
+With a few iron bars made, head on back to the smelter - we’re ready
+to rock! I hope, at this point, that you’ve not
 been invaded, attacked or otherwise molested. With our fortress around
 two years old now it’s likely you’ll start to see the odd goblin ambush
 – especially if you send your dwarfs outside a lot. I hope you survive
 those ambushes just fine! Perhaps we should have started this chapter
-sooner…
+sooner...
 
 Anyway, head over to your metalsmith’s forge, and:
 
@@ -180,26 +171,24 @@ Anyway, head over to your metalsmith’s forge, and:
   see all the neat things we can make! You might need to hit :kbd:`Tab`
   to expand the menu size so you can see everything.
 * Scroll to :guilabel:`Trap Components` and hit :kbd:`Enter`.
-* Scroll to :guilabel:`Steel`, hit :kbd:`Enter`.
+* Scroll to :guilabel:`Iron`, hit :kbd:`Enter`.
 * Hit :kbd:`Tab`, :kbd:`Tab` so we can see the full item names.
-* Chose to make a :guilabel:`large, serrated Steel disc`.
+* Chose to make a :guilabel:`large, serrated Iron disc`.
   I love the sound of that!
 * Queue up three disks.
 
 At this point you might want to think about other items you’d like to
 make in due course. Hit :kbd:`a` again and then hit space to back down the
 make-item tree. Chose :guilabel:`Weapons and Ammunition`, chose
-:guilabel:`Steel` and let's
-make three steel warhammers. These will come in handy once we start our
+:guilabel:`Iron` and let's
+make three Iron warhammers. These will come in handy once we start our
 military. I like warhammers because it’s funny to watch goblins fly a
 half dozen tiles and then expire in a heap.
 
 Once you’re confident your items are made, go back and make sure you’ve
 got some more charcoal in production, you’ve got more ore being smelted
 and add, under Armor, three suits of iron chainmail and three iron
-shields. This will all come in handy later. You could make steel
-chainmail instead, but it takes a bit of time to make those steel bars
-and we want to get on with the chapter, right?
+shields. This will all come in handy later.
 
 Oh, you may be getting annoyed at slow production. I know it’s been
 bugging me. Perhaps it’s time to pack your production rooms with more
@@ -220,13 +209,13 @@ entrance. Get ready for trap placing fun!
 * Chose a mechanism.
 * A new screen will be displayed looking something like this:
 
-.. image:: images/dftutorial97.png
+.. image:: images/06-traps2-place.png
    :align: center
 
 * From this screen you can chose the weapons you want to deploy with
-  your trap. Facing goblins, we really only need one awesome steel disc
+  your trap. Facing goblins, we really only need one awesome iron disc
   per trap I think, but we’re able to select more if we wish.
-* Scroll to the :guilabel:`large, serrated St...` and hit :kbd:`Enter`,
+* Scroll to the :guilabel:`large, serrated Ir...` and hit :kbd:`Enter`,
   you’ll see :guilabel:`1/3 selected`.  Weapon traps can have up to
   ten weapons each, but we need to save some for the other traps!
 * Hit :kbd:`d` for :guilabel:`Done Selecting`.
@@ -242,138 +231,74 @@ Here are my traps, laid out. I’m actually going to add another row of
 slicey dicey weapon traps as I don’t have a military and I’m a bit
 paranoid. Do something similar!
 
-.. image:: images/dftutorial98.png
+.. image:: images/06-traps3-types.png
    :align: center
 
 Well done on the trap placing! But we’re not done with our defences
-just yet. We need to do some terraforming to make things a little nicer
-for ourselves. Let me explain…
+just yet. We need to stop our drunken citizens from casually strolling
+into an invading army - and that means the Burrows system!
 
-Defending stuff better
-======================
-.. note::
+Learn to love Burrows
+=====================
+"Wait!" you're probably thinking, "Why do we need filthy burrows when
+we have a perfectly good fortress?".  Well, I'm glad you asked!
 
-    This section needs to be updated.  DF2014 uses the burrows menu to
-    set areas, and doesn't have the simple inside/outside toggle.
+A burrow isn't a physical part of your fortress, it's a way of designating
+where dwarves are allowed to live and work.  More importantly, you can
+set a :guilabel:`Civilian alert` to confine their movements too - perfect
+for stopping Urist McSuicidal from wandering off to make friends with a
+troll.  Here's how to set it up:
 
-If you hit :kbd:`o` for :guilabel:`orders` you will see a list of global
-commands you can issue to your dwarfs. The first one at the top is
-:guilabel:`Dwarves can go outside`. For amusement, hit :kbd:`i` to
-toggle through the options. First :kbd:`i` turns it to
-:guilabel:`Soldiers can go outdoors`. If you resume the game all
-but soldiers will immediately rush into your fortress and refuse to
-come out again. Hit :kbd:`i` again and you’ll see that all dwarfs are now
-instructed to stay inside. Hit :kbd:`i` once more to return it to the default.
-
-Setting orders to :guilabel:`Soldiers only` is what you will want to do when
-you’re invaded. But there’s a problem with this, can you figure it out?
-The answer is that it’s in the definition of :guilabel:`outside`. Right now,
-right up to the edge of our cave mouth is :guilabel:`inside`. Can you imagine
-the result when goblins invade? You got it! Dwarfs may hang around right at
-all those traps and get in the way of soldiers or get themselves killed
-(or more amusingly, get knocked unconscious, fall on a trap, and then
-get sliced to bits).
-
-We can prevent this comedy routine by creating more :guilabel:`outside`. For
-starters, how about we hollow away the roof above our cave entrance?
-Then that cave mouth becomes :guilabel:`outside`, but entry to our fortress is
-still restricted by the walls and protected by traps. Good idea huh?!
-Follow along:
-
-* Go to our entrance.
-* Hit :kbd:`d`
-* Place the X about where I’ve got it below:
-
-.. image:: images/dftutorial99.png
+.. image:: images/06-burrow.gif
    :align: center
 
-* Go up one level.
-* Hit :kbd:`h` for channel.
-* Channel all the way up to the tree:
+Want some more detail?  You're in the right place! Start by hitting
+:kbd:`w` for the burrows menu, and :kbd:`a` to add.  As shown in the
+gif above, :kbd:`Enter` to designate is the important thing.
+Cover the whole underground area, since it's safe there, and
+:kbd:`n` name it something like "Inside".
 
-.. image:: images/dftutorial9901.png
+.. image:: images/06-burrow-simple.png
    :align: center
 
-Channelling cuts down through the ground to the level below. It can be
-used in place of mining to clear space and provides a safer way for
-dwarfs to get to stuff below their toes. Note, it is possible to cause
-cave ins by removing land connecting terrain to the rest of the world.
-This may be fatal for your dwarfs, so be careful! But for now:
+The key feature here - for civilians, the military is complicated -
+is that on the left we have :guilabel:`ALERTS` and on the right we have
+:guilabel:`BURROWS`.  This means that we can set non-military dwarves to
+be confined to a burrow, and change which if any that is with a single
+alert setting.
 
-* Designate all those trees around this level to be cut down. We can’t
-  dig a channel on a tree, right? Come back when the cutting is done.
-* Continue designating the channel all the way to the end of the spit
-  of land.
-* Designate another channel the same full length to the right of the
-  first designation.
-* When these are complete, finish our three-channel wide cut  with
-  another designation to the right of the second designation. Don’t
-  designate all three at once or your dwarfs may accidentally cause some
-  cave ins by cutting the wrong piece of land in the wrong order!
+This is the :kbd:`m` military :kbd:`a` alerts screen, which is also
+used for for civilian alerts.
 
-When finished, your three channels will be open space above our
-entrance, like this:
-
-.. image:: images/dftutorial9902.png
+.. image:: images/06-burrow-explanation.png
    :align: center
 
-Now, when we issue the order for our lads to :guilabel:`stay inside` they won’t
-be hanging around the entrance! Super! One thing I’m concerned about is
-that anyone above our entrance could get a clear shot down to fleeing
-dwarfs. Lets stop that by building a wall. While we’re at it lets tidy
-the bits of land poking out over open air. Flip up and down between
-levels and you’ll see where some tidying needs to be done. Channel
-away! As for the wall,  you know how to make walls using :kbd:`b`, :kbd:`C`
-so go ahead and do it, here’s how mine turned out!
+Now, let's set up a civilian alert in our new burrow, to make sure
+nobody gets caught on the wrong side of the traps:
 
-.. image:: images/dftutorial9903.png
-   :align: center
+* :kbd:`c` to add an alert, then :kbd:`n` to name it.
+  I called mine "Siege" because it's to use during a siege. Yep.
+* Now move the cursor to the :guilabel:`BURROWS` column, and hit
+  :kbd:`Enter` to associate that burrow with your new alert.
+  You'll see a green :guilabel:`A` next to the burrow when you have
+  that alert selected.
+* Hit :kbd:`Esc` a couple of times to get out of the military menus.
 
-Walls to secure anyone dropping in, nice open space to out
-outdoors/indoors problem.
+You're all set up!  In case of invasion :kbd:`m`, :kbd:`a`, select the
+Siege alert, :kbd:`Enter`, and you should see a green :guilabel:`[CIV]`
+next to it.
 
-While you’re fiddling with :kbd:`o`, :guilabel:`orders`, have a look at
-:kbd:`r` for :guilabel:`refuse` orders. Unless I’m in battle, or worried,
-I like to toggle :kbd:`o`
-under the refuse menu so it’s set at  :guilabel:`dwarfs gather refuse from
-outside`. They will then grab all the loot from dead goblins
-scattered around on the grass. Pretty handy huh? Nothing like free
-stuff, is there?
+Congratulations, your civilians are now confined to the burrow!
+Watch any civilians who were outside drop what they were doing and come
+running back inside. Note they will not go for food, so your safe room
+may become a death sentence if there's no supplies (but that shouldn't
+be a problem by now, right?).
 
-Arg! More goblins!
-==================
-Oh dear! I got badly ambushed by goblins. I drafted my miners into the
-military (they tend to be strong and are armed with picks – ok scratch
-defence) and they were cut down by the hordes of goblins! Terrible! On
-the plus side a number of goblins were caught in traps and two were
-killed by my miners. Others are out there still so all dwarfs have been
-ordered to stay inside. Such is life. When you play for real you’ll be
-able to work through all you’ve learnt much faster and so you’ll be
-better prepared if this sort of bad luck has happened already.
-
-.. image:: images/dftutorial9904.png
-   :align: center
-
-As you can see, there’s a little dwarf head icon to mark my fallen
-dwarfs as well as a red g to mark the dead goblin. There’s also lots
-of blood about. If you ever face something similar, hit :kbd:`k` and have a
-look around at the destruction! You can also see the full cages where
-my cage traps are. If I didn’t forbid dwarfs to go outside they’d be
-out there now trying to pick up the full cages and replace them with
-empty ones. See why we remove the roof now? Careless dwarfs are going
-to get themselves killed. Help them be not careless.
-
-Good news about the goblins, I drafted some more dwarfs, armed and
-amored them, and sent them out and smashed some gobos. Great stuff! I
-think we better cover the military somewhat soonish.. after nobles in
-the next chapter.
-
-One point to note: If you forbid your dwarfs to go outside they may
-suspend construction jobs out there. Best to check around over anything
-you’ve got being built with :kbd:`q` and hit :kbd:`s` to un-suspend them as
-appropriate.
+When the 'fight' (against brave... traps) is over, come back and select
+:guilabel:`Inactive` and hit :kbd:`Enter` to cancel the alert and let
+your civilians back out of the burrow - that's all there is to it.
 
 Anyway, that’s enough to now. Get on with building lots of traps,
 making bags, armor, barrels, food, bins, shields, weapons and so on! Go
-to it, and see you in chapter 9!
+to it, and see you in the next chapter!
 
