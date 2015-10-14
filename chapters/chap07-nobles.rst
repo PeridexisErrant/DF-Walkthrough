@@ -20,7 +20,7 @@ how mine looks. Every room has a bed and a door and the noble rooms
 assorted stuff to keep any nobles who visit happy. Lets cover off the
 details.
 
-.. image:: images/dftutorial9905.png
+.. image:: images/07-lotsa-beds.png
    :align: center
 
 Nobles (from the :kbd:`n` menu) generally want a bedroom (assigned from a
@@ -47,28 +47,25 @@ demands of your nobles or they may go crazy and cause all kinds of
 problems.
 
 Lets have a look at nobles. Go ahead and hit :kbd:`n`. This is your noble
-list, right now it should be very short, but in time it will grow.
+list, right now it should be fairly short, but in time it will grow.
 Chances are it looks like this:
 
-.. image:: images/dftutorial9906.png
+.. image:: images/07-noble-list.png
    :align: center
 
-With a newby fortress only one dwarf is set as expedition leader. As
+In most new fortresses only one dwarf is set as expedition leader. As
 the fortress grows more noble ranks will appear in this list and more
-positions will be filled. Lets look at the current expedition leader.
-Hit :kbd:`Enter` and you’ll see info about the current leader. Our dwarf
-owns 14 objects (mostly clothes and stuff), has :guilabel:`meagre quarters`.
-Assign Eshtan Urdimfash a full set of noble rooms, just for kicks. He’s
-not demanding any, but we’ll do it for practice. If he were demanding
-more rooms you would see them in red on the left. If he had a room, but
-not a good enough room, it would show what he’s currently got and what
-he’s actually demanding.
+positions will be filled. However we've been 'lucky' - one of our dwarves
+has become king, presumably because all the other candidates died.
+This is kinda cool, but a king can also be unreasonably demanding.
 
-Once you’ve assigned the bedroom, office, dining room and tomb, if you
-go back to the noble list and view our chap you will now see his
-holdings have changed
+Lets look at the king.  Hit :kbd:`Enter` and you’ll see info about the
+state of his stuff. Our king owns 14 objects, mostly clothes,
+and has :guilabel:`meagre quarters`.  Rooms and item he 'needs' are
+in red, and things he has (but aren't good enough) are in yellow.
+Start building a sweet suite, and we'll come back to him later.
 
-.. image:: images/dftutorial9907.png
+.. image:: images/07-king1.png
    :align: center
 
 Next job for you is to assign a book keeper. Usually, if you embark
@@ -90,9 +87,15 @@ dictates how much time your dwarf will spend counting. Use the arrow to
 scroll to :guilabel:`Highest` and hit enter. Eshtan will now work very hard to
 get all our stock counts accurate!
 
+Finally, let's assign a room to our bookeeper - he's not demanding any,
+but it'll be useful to know how when the royal rooms are finished.
+:kbd:`q` to see the room, :kbd:`a` to assign, select the dwarf in question,
+and finally :kbd:`Enter` to set.  Now go back to the noble list and you'll
+now see his holdings have changed!
+
 There you go, a quick overview of nobles. As you play the game more you
-will have to deal with nobles a lot, but don’t worry, the Dwarf
-Fortress Wiki should provide you with heaps of tips and advice should
+will have to deal with nobles a lot, but don’t worry, :wiki:`the Dwarf
+Fortress Wiki <Nobles>` should provide you with heaps of tips and advice should
 you get confused.
 
 Accounting is fun! Really!
@@ -100,7 +103,7 @@ Accounting is fun! Really!
 We’ve mentioned stocks, but not discussed the stock screen yet, so lets
 get to it now. Hit :kbd:`z` and you’ll see this screen:
 
-.. image:: images/dftutorial9908.png
+.. image:: images/07-stocks.png
    :align: center
 
 Lets go over what you’re seeing here:
@@ -108,8 +111,8 @@ Lets go over what you’re seeing here:
 * Across the top are sub menu options. You can scroll through them
   using the arrow keys (:kbd:`←` and :kbd:`→`) and then hit :kbd:`Enter`
   to learn more.
-* There’s a description of your wealth on the left. We don’t know yet
-  as we need a noble with skillz.
+* There’s a description of your wealth on the left. We can get more
+  accurate details with a skilled bookeeper.
 * There are food store stats, but those question marks indicate we
   really aren’t that sure how much food or drink we’ve got. The
   bookkeeper should turn these figures accurate fairly soon.
@@ -117,7 +120,7 @@ Lets go over what you’re seeing here:
 
 With :guilabel:`Animals` selected, hit enter. You can see all the animals in
 your fortress on the following screen. This is also the screen you can set
-animals to be butchered on mass. If you set a few to be butchered a
+animals to be butchered en mass. If you set a few to be butchered a
 dwarf with :guilabel:`small animal dissection` and :guilabel:`butchery`
 skills enabled will
 run off and start grabbing those animals and chopping them up in the
@@ -153,8 +156,7 @@ Good work! Now back out of that menu and chose stone. In the stone menu
 you see (in red) all the stones your dwarves are forbidden to build
 with/use and in green, all the ones they are allowed to use. Scroll
 through with the arrows and hit enter over every stone that does not
-have a use description appear on the right. The only exception may be
-bauxite due to its special magma-proof qualities.
+have a use description appear on the right.
 
 The reason you are doing this is so that the dwarves have much more
 choice in the stone they will use to make doors, walls, etc etc. This
@@ -186,6 +188,25 @@ The last menu :guilabel:`Justice` doesn’t come in to play until we have more
 nobles who will start wanting to throw dwarves into jail if they ignore
 their mandates. Worry about that latter!
 
+A bedroom fit for a King!
+=========================
+Remember that sweet suite the king wanted?  If you didn't decide it was
+a royal pain, here's an example of what you might build:
+
+.. image:: images/07-royal-rooms.png
+   :align: center
+
+* Four large rooms, smoothed and engraved on the walls and floor
+* Plenty of valuable furniture
+* One bedroom, one office, one private dining room, and one tomb
+
+.. image:: images/07-king2.png
+   :align: center
+
+He's still not happy of course, but it's something.  At this point
+you can continue piling on the valuables, or arrange an...
+:wiki:`unfortunate accident <Unfortunate_accident>`.
+
 Homework time!
 ==============
 You’ve got a tricky job to do now, ok, not so tricky really. I want you
@@ -194,5 +215,5 @@ the below levels. Try and cover much of the map with your grid of
 tunnels. We’re looking for three things: metal ore, gems, and magma. You
 may want to assign another dwarf or two to mining duty, and to make a
 few more picks as well (at the metalsmith’s forge, under :guilabel:`weapons`).
-We’ll see what this map is like when we return in chapter 10!
+We’ll see what this map is like when we return!
 
