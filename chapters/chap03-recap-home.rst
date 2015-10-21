@@ -1,3 +1,5 @@
+.. _chapter03:
+
 #################
 From Cave to Home
 #################
@@ -229,4 +231,4 @@ complete these tasks before we meet again:
    menu on the craftsdwarf’s workshop. Make sure you have lots of bins for
    your crafts to go in though, and a big finished goods stockpile too!
 
-Good luck! And see you soon!
+Good luck! And see you soon, in `the next chapter! <chapter04>`

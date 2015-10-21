@@ -1,3 +1,5 @@
+.. _chapter04:
+
 ######################
 It almost makes sense!
 ######################
@@ -215,6 +217,6 @@ to graze on, so we'd better set up a pasture zone.
 Done!  Our livestock will now happily graze under the trees, turning
 grass into a foundation of dwarven industry and cuisine.
 
-I'll see you in chapter five to look at expanding our industries to something
-truly impressive!
+I'll see you in `chapter five <chapter05>` to look at expanding our
+industries to something truly impressive!
 

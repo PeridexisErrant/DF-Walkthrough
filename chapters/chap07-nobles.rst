@@ -1,3 +1,5 @@
+.. _chapter07:
+
 #############################
 Nobles and other useless sods
 #############################
@@ -210,10 +212,11 @@ you can continue piling on the valuables, or arrange an...
 Homework time!
 ==============
 You’ve got a tricky job to do now, ok, not so tricky really. I want you
-to dig exploratory tunnels in EVERY DIRECTION from your living room and
-the below levels. Try and cover much of the map with your grid of
+to dig exploratory tunnels in every direction from your living room and
+the below levels. Try and cover most of the map with your grid of
 tunnels. We’re looking for three things: metal ore, gems, and magma. You
 may want to assign another dwarf or two to mining duty, and to make a
 few more picks as well (at the metalsmith’s forge, under :guilabel:`weapons`).
-We’ll see what this map is like when we return!
+
+We’ll see what this map is like when we `return next chapter! <chapter08>`
 

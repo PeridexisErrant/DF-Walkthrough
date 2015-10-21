@@ -1,3 +1,5 @@
+.. _chapter01:
+
 ###############
 Getting Started
 ###############
@@ -351,8 +353,8 @@ you’ve got food production up and running, you’ve set up a stockpile,
 you’ve set wood to be chopped and plants to be gathered and you know
 how to do some basic digging! You’ve come far!
 
-Before reading the next instalment, how about setting some more plants
-to be gathered and more wood to be chopped. Then, head on to Part 2 and
-we’ll learn all about workshops, bedrooms, dinning rooms and stairs! It
+Before reading Chapter 2, how about setting some more plants to be gathered
+and more wood to be chopped. Then, head `to the next instalment <chapter02>`
+and we’ll learn all about workshops, bedrooms, dinning rooms and stairs! It
 will be ever so exciting, I promise!
 

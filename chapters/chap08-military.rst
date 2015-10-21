@@ -1,3 +1,5 @@
+.. _chapter08:
+
 ######################
 Soldiers and your army
 ######################
@@ -252,6 +254,6 @@ charging in one by one.
 There's a lot of ways of handling military, and we haven't even covered
 crossbow weilding marksdwarves, multiple weapons, archery targets, or
 any of that stuff. For now, go and build your military and come back
-for the next tutorial where we'll round out your Dwarf Fortress lesson
-with some final touches!
+for `the next and final chapter <chapter09>` where we'll round out your
+lesson with some final touches!
 

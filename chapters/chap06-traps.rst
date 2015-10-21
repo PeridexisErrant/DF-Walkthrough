@@ -1,3 +1,5 @@
+.. _chapter06:
+
 ############
 It's a trap!
 ############
@@ -300,5 +302,5 @@ your civilians back out of the burrow - that's all there is to it.
 
 Anyway, that’s enough to now. Get on with building lots of traps,
 making bags, armor, barrels, food, bins, shields, weapons and so on! Go
-to it, and see you in the next chapter!
+to it, and I'll see you in `the next chapter! <chapter07>`.
 

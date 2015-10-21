@@ -8,6 +8,7 @@ than any other game around.  This walkthrough, along with the
 :forums:`DF Starter Pack <126076>`, are my attempts to dangle a rope
 down, as the community first did for me years ago.
 
+.. _index:
 
 The Walkthrough
 ===============

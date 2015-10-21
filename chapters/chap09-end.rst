@@ -1,5 +1,7 @@
+.. _chapter09:
+
 ##################
-That`s All Folks?!
+That's All, Folks!
 ##################
 
 This is the final chapter of the Dwarf Fortress walkthrough.
@@ -821,7 +823,7 @@ The End!
 ========
 And welcome to the end of the tutorial! By now you should be able
 to play the game on your own.  You can also check out the tutorials
-in the index, for short chapters that cover a particular topic.
+in the `index <index>`, for short chapters that cover a particular topic.
 
 You might consider a mega project like an enormous tower, a
 castle, or a fortress entirely surrounded by magma. There are many

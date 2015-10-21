@@ -1,3 +1,5 @@
+.. _chapter02:
+
 ################################
 Workshops, Furniture, and Stairs
 ################################
@@ -497,7 +499,7 @@ use the beds in the dormitory to sleep in. When you have a military, a
 
 Well done! We have a shared bedroom for our shorties to sleep in!
 
-In the next chapter of the walkthrough, we’ll build a fine dining
+In `the next chapter of the walkthrough <chapter03>`, we’ll build a fine dining
 room, set up some more workshops, and start to build some proper living
 quarters for our dwarves. I can’t wait!
 

@@ -1,3 +1,5 @@
+.. _chapter05:
+
 ########################
 An Industrial Revolution
 ########################
@@ -292,6 +294,6 @@ If the crazy dwarf is ignored they will destroy stuff and attack
 dwarves, probably killing a couple before they are put down, so watch
 those moody stunties closely!
 
-In the next chapter, we'll cover traps - which are used to 'mine' a
+In `the next chapter <chapter06>`, we'll cover traps - used to "mine" a
 kind of iron ore the community calls "goblinite".  See you then!
 
