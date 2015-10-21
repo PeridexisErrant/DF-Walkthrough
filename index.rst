@@ -45,8 +45,7 @@ digging too deep, or learning to make and install mods.
 Each tutorial is a short, self-contained introduction to a topic which is
 likely to be of interest to players who have just finished the walkthrough.
 And if you're most interested in somthing not listed here,
-`dwarffortresswiki <http://dwarffortresswiki.org>`_
-and the Bay12 Forums will be your best friends.
+:wiki:`the wiki <>` and the Bay12 Forums will be your best friends.
 
 
 .. toctree::

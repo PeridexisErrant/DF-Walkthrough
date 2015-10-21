@@ -5,13 +5,13 @@ Any other automatic checks should be in this file too.
 """
 
 from glob import glob
-from io import open
+import io
 import os
-from os.path import *
+from os.path import basename, dirname, join, relpath
 import sys
 
 text_extensions = ('rst', 'md', 'txt', 'html', 'css', 'js')
-dirs = ['chapters', 'tutorials', 'masterclass']
+DIRS = ['chapters', 'tutorials', 'masterclass']
 
 
 def error(fname, lineno, issue):
@@ -29,7 +29,7 @@ def lint(path):
             if '_build' in fname or not any(
                     fname.endswith(ext) for ext in text_extensions):
                 continue
-            with open(fname, encoding='utf-8') as fh:
+            with io.open(fname, encoding='utf-8') as fh:
                 for i, line in enumerate(fh.readlines()):
                     if len(line) > 81:
                         failed = True
@@ -49,20 +49,19 @@ def unused_images(path):
     """Check that all files in image subdirs are references in the text."""
     print('Checking for unused images...')
     failed = False
-    for d in dirs:
+    for d in DIRS:
         text = ''
-        for fname in glob(os.path.join(d, '*.rst')):
-            with open(fname, encoding='utf-8') as f:
+        for fname in glob(join(d, '*.rst')):
+            with io.open(fname, encoding='utf-8') as f:
                 text += f.read()
-        for img in glob(os.path.join(d, 'images', '*.*')):
-            img = os.path.basename(img)
+        for img in glob(join(d, 'images', '*.*')):
+            img = basename(img)
             if img == 'Thumbs.db':
                 continue
             markup = '.. image:: images/{}'.format(img)
             if markup not in text:
                 failed = True
-                print('Error:  image not referenced, {}/{}/{}'.format(
-                      d, 'images', img))
+                print('Error: not referenced: "{}/images/{}"'.format(d, img))
     if failed:
         print('Use or or delete these images.')
     return failed
@@ -71,6 +70,7 @@ def unused_images(path):
 if __name__ == '__main__':
     # lint everything in the parent directory, wherever the script is run from.
     p = relpath(join(dirname(__file__), '..'))
-    failed = lint(p)
-    failed |= unused_images(p)
-    sys.exit(failed)
+    fail_lint = lint(p)
+    fail_imgs = unused_images(p)
+    print('lint.py done.')
+    sys.exit(fail_lint or fail_imgs)
