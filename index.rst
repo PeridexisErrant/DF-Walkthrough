@@ -88,9 +88,11 @@ The source text and images are `hosted on Github
 published immediately to `readthedocs.org <https://df-walkthrough.rtfd.org>`_
 every time a change is pushed.
 
-Inspiration and original text - from which I learnt to play DF - by
-`TinyPirate <http://afteractionreporter.com/dwarf-fortress-tutorials/>`_,
-adapted with :reddit:`permission <368j7h>`.
+This project was inspired by `TinyPirate's DF tutorials
+<http://afteractionreporter.com/dwarf-fortress-tutorials/>`_, which taught
+me to play DF.  The walkthrough started as an update of these tutorials.
+Other content is original or (for some tutorials and most masterclasses)
+links back to the primary source.
 
 Consider `supporting my work <https://www.patreon.com/PeridexisErrant>`_
 on Patreon.

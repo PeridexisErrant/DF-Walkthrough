@@ -5,30 +5,26 @@ Contributing to this project
 Are you interested in contributing to this project, or just interested
 in learning what goes into it?  Then this is the page for you!
 
-There are two main areas of work:  maintaining and improving the
-existing content (walkthrough chapters and tutorials), and adding
-new tutorials.
-
-At the moment I'm focussing on updating Tiny Pirate's
-`old tutorials <http://afteractionreporter.com/dwarf-fortress-tutorials/>`_ -
-the chapters are written for DF v0.28.181.40d, which was
-released in 2008!
-
-If you want to help out by improving existing chapters and tutorials,
-that would be much appreciated.  I'm also very happy to take bug reports!
-(for the updated chapters, anyway - I know the old ones are old!)
-
 You can `find the project on Github
 <https://github.com/PeridexisErrant/DF-Walkthrough>`_.
 
-If this sounds like a lot of work - and it is - you can
-`support me on Patreon <https://www.patreon.com/PeridexisErrant>`_ instead.
+There are two main areas of work:  maintaining and improving the
+existing content (walkthrough chapters and tutorials), and adding
+new tutorials.  It would be great if you wanted to help out!
+
+I'm also very happy to take bug reports - just send me a message about
+small errors, typos, or formatting problems.  Larger issues about content
+should be reported on the Github issue tracker, so I'm not the only one
+who can work on them.
+
+You can also `support me on Patreon <https://www.patreon.com/PeridexisErrant>`_
+if this sounds like a lot of work.
 
 
 How to turn text into the website
 =================================
 Anyone who wants to contribute content, fix a bug, or just have an offline
-copy need to turn the text files into the website.  Luckily, this is
+copy needs to turn the text files into the website.  Luckily, this is
 pretty easy!  You only need two things installed:
 
 * `Python <https://www.python.org>`_.
@@ -41,7 +37,7 @@ pretty easy!  You only need two things installed:
   alternative install instructions.
 
 Get the code from the GitHub repo, either by forking the repo if you want
-to contribute), or usig the 'download ZIP' option and unzipping the folder.
+to contribute, or using the 'download ZIP' option and unzipping the folder.
 
 Congratulations, you now have the text!  There's only one more step:
 open a command prompt in the DF-Walkthrough folder, and run ``make html``
@@ -58,10 +54,9 @@ add yourself if you're not!*
 Person              Contribution
 =================== ===========================================================
 PeridexisErrant     Project leader, does some of everything else too
-TinyPirate          Author of old "Getting Started with Dwarf Fortress"
-                    series, inspiration for project
-/u/buschwacker      Contributed many images
-/u/Mechanixm        Wrote several excellent tutorials
+TinyPirate          Author and inspiration for project
+/u/buschwacker      Contributed chapters and many, many images
+/u/Mechanixm        Wrote a great masterclass series
 =================== ===========================================================
 
 
@@ -81,6 +76,9 @@ be.  Prefer linking to a tutorial over adding a section to the walkthrough.
 The tutorials each cover a single, self-contained topic.  Tutorials
 are aimed at players who have just finished the walkthrough.  They
 introduce core topics not covered in the walkthrough.
+
+A masterclass is like a tutorial, but covering an advanced topic for
+experienced players.
 
 
 Style
