@@ -19,21 +19,11 @@ dwarfy fun! And carp. Never forget the carp…
 
 Set Up
 ======
+:DFFD:`Download the walkthrough pack here. <11171>`
 
-.. note::
-
-    This tutorial uses a pre-configured install of DF, with a basic
-    save generated for you and less extra stuff than general-purpose
-    community packages.  It still includes graphics and UI upgrades,
-    though!
-
-    :DFFD:`Download the walkthrough pack here. <11171>`
-
-    Later, you might prefer to move your save over to the
-    :DFFD:`Starter Pack <7622>`, to take advantage of all the other
-    tools and options it offers - to suit everyone up to long-time
-    players and DF experts.
-
+This tutorial uses a pre-configured install of DF, with the same
+save and all the extras you need - but no more.  If that's not
+going to work for you, see the guide to :ref:`setting-up-df`.
 
 After downloading the pack, you need to unzip the folder onto your hard
 drive (but *not* in ``Program Files``). Then create a shortcut on your
@@ -89,9 +79,8 @@ While you examine your surroundings you should be able to spot tree
 trunks and the grassy areas easy enough, same with (frozen) ponds and
 the stream and bushes. Other tiles won’t make much sense, these tend to
 be the slightly-arcane zones like open air spaces (pale blue tiles, or
-tiles with dots) and the earth (brown tiles) and slope tiles (up and
-down triangles). The screenshot below should help point those features
-out.
+tiles with dots) and the earth (brown tiles) and slope or ramp tiles (upward
+triangles). The screenshot below should help point those features out.
 
 .. image:: images/01-features-lvl108.png
    :align: center
@@ -362,7 +351,7 @@ you’ve got food production up and running, you’ve set up a stockpile,
 you’ve set wood to be chopped and plants to be gathered and you know
 how to do some basic digging! You’ve come far!
 
-Before reading the next instalment, how about setting some more pants
+Before reading the next instalment, how about setting some more plants
 to be gathered and more wood to be chopped. Then, head on to Part 2 and
 we’ll learn all about workshops, bedrooms, dinning rooms and stairs! It
 will be ever so exciting, I promise!

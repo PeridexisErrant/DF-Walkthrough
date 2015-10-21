@@ -820,16 +820,15 @@ bones will build character, not body count!
 The End!
 ========
 And welcome to the end of the tutorial! By now you should be able
-to play the game on your own. If you`re lost as to what to do next,
-how about digging around and looking for more ore to smelt? How
-about poking around the caverns for some spider silk?
+to play the game on your own.  You can also check out the tutorials
+in the index, for short chapters that cover a particular topic.
 
-You can also check out the tutorials in the index, for short
-chapters that cover a particular topic. Generating a new world is
-always fun when your fort gets too stable!
-
-You might also consider a mega project like an enormous tower,
+You might consider a mega project like an enormous tower, a
 castle, or a fortress entirely surrounded by magma. There are many
 options, and just surviving the increasingly severe raids from
 goblins and other critters can be a challenge.
+
+You're also ready to upgrade to the :DFFD:`Starter Pack <7622>`,
+and explore the wider world of DF addons.  From alternative graphics
+to advanced tools or a real 3D visualiser... the world is your oyster!
 

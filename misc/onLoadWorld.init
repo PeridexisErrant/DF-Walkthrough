@@ -1,0 +1,22 @@
+# The contents of this file are executed as DFHack commands
+# when a world is loaded - good for bugfixes and other options.
+# In this case, it's used to deal with a number of issues that
+# new players don't need, to streamline the walkthrough.
+
+# Automatically manage labors (easier than Dwarf Therapist)
+autolabor 1
+
+# Better repeat jobs in workshops
+workflow enable
+
+# Automate nestbox and coffin assignment
+autonestbox start
+repeat -time 7 -timeUnits days -command [ burial ]
+
+# Add mouse-hover to scroll the game window
+mousequery edge enable
+
+# Performance tweaks
+tweak fast-heat
+repeat -time 1 -timeUnits months -command [ cleanowned scattered x ]
+repeat -time 1 -timeUnits months -command [ clean all ]
