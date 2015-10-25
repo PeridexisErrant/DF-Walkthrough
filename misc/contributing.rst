@@ -53,10 +53,11 @@ add yourself if you're not!*
 =================== ===========================================================
 Person              Contribution
 =================== ===========================================================
-PeridexisErrant     Project leader, does some of everything else too
+PeridexisErrant     Project leader, editor, maintainer; does some of everything
 TinyPirate          Author and inspiration for project
 /u/buschwacker      Contributed chapters and many, many images
 /u/Mechanixm        Wrote a great masterclass series
+Larix               Wrote the Minecart masterclass
 =================== ===========================================================
 
 
