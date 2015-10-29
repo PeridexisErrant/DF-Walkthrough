@@ -132,18 +132,19 @@ Special text:
   :guilabel:`'` - leave it out).  Don't use this style for ASCII art, only
   ingame menus which should be read as text.
 
+Tips:
+
+* Image names must not contain spaces
+* Text files should be encoded in UTF-8 (your editor should have an option
+  for this)
 
 TODO list
 =========
 *There's a lot to do; this list is roughly in order of priority but
 items may be done in other orders for whatever reason.*
 
-#. Update all content for DF2014.  Preferably *before* the next DF release
-#. Update all images and make sure descriptions match
-#. Import https://www.reddit.com/r/MechGuides (by invitation)
+#. Update remaining images
 #. Run everything through Hemmingway
-#. Make usage / reading a nicer experience for new players
-#. Make contributing easier and more rewarding
 #. Add more tutorials; eg modding, quantum stockpiles, graphics, etc
 #. Add an adventure mode walkthrough
 
