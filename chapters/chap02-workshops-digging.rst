@@ -331,6 +331,14 @@ quickly built and look something like this:
 .. image:: images/02-still-built.png
    :align: center
 
+Before we brew some booze, there's one more thing we need: barrels.
+
+* Head to the carpenter.
+* Hit :kbd:`q`.
+* Hit :kbd:`a`.
+* Scroll down to :guilabel:`Make wooden Barrel`, or just hit :kbd:`v`.
+* Fill the queue with barrels.
+
 Now to make it start churning out the brewskies!
 
 * Hit :kbd:`q` and move the cursor to the still.
@@ -338,15 +346,7 @@ Now to make it start churning out the brewskies!
 * Hit :kbd:`b` for :guilabel:`Brew drink from plant`
 * Hit :kbd:`a` and :kbd:`b` another 7 or so times.
 
-Yay! You have now queued up a lot of beer to be made. But you’re going
-to need to do something else to keep the booze flowing; you’re going to
-need to make barrels.
-
-* Head to the carpenter.
-* Hit :kbd:`q`.
-* Hit :kbd:`a`.
-* Scroll down to :guilabel:`Make wooden Barrel`, or just hit :kbd:`v`.
-* Fill the queue with barrels.
+Yay! You have now queued up a lot of beer to be made.
 
 To keep booze production at an acceptable rate, there's a couple of
 options.  One is to keep checking manually, but you only have to be
