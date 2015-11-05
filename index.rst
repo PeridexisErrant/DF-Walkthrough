@@ -77,8 +77,8 @@ Other Information
    :maxdepth: 1
    :glob:
 
+   LICENSE
    misc/*
-   *
 
 
 About

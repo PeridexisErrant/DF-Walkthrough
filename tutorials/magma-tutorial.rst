@@ -10,7 +10,9 @@ Walkthrough.
 Note: Unless otherwise stated, this tutorial uses the Workflow utility
 for building items. We will also use the Quickfort utility during the
 pump stack construction process. All these utilities are bundled in
-the latest Starter Pack maintained by PeridexisErrant.
+the latest :dffd:`Starter Pack <7622>` maintained by PeridexisErrant.
+
+The save I used is :dffd:`11179`.
 
 .. contents::
 
@@ -243,7 +245,7 @@ secure the breach.
 * Repeat the steps above to seal the stairwell. Remove the up stairs
   above the breached stairwell, dig upward stairs to reconnect with the
   stairwell, throw a hatch or floor over the breach, and bypass.
-* Don't forget to delete the sections of the :guilabel:`Internal`
+* Don't forget to delete the sections of the :guilabel:`Inside`
   burrow, remove the dig designation under the cavern floor, and cover
   all downward staircases with a floor hatch.
 
@@ -378,7 +380,7 @@ everything as it wiggles around.
 We didn't risk the fortress dodging Jabberers and other forgotten
 horrors just to admire the view. The magma sea isn't much good to us
 all the way down here. To harness magma's potential, we need to raise
-it to the surface.
+it to the surface. We’ll do so by building a 'pump stack.'
 
 A Well-Laid Foundation
 ======================
@@ -446,7 +448,7 @@ each out of iron would take 508 iron bars total! Glassmaking requires
 only sand, which is infinite, and 127 units of charcoal for fuel.
 Therefore, the glass option is clearly the better course of action.
 
-Let's start beefing up our glass production facilities. Yellow sand is
+Let's beef up our glass production facilities. Yellow sand is
 found on z-level -2, so that's where we will locate our Glass Furnaces.
 
 * Build a set of three Glass Furnaces to pump out :guilabel:`Screw
@@ -456,13 +458,13 @@ found on z-level -2, so that's where we will locate our Glass Furnaces.
 .. image:: images/Magma-Tut-4_2-Foundation.png
    :align: center
 
-* Make sure to leave room for a :guilabel:`sand bag` stockpile next to
-  your producing Glass Furnaces. Sand bags are located at the bottom of
+* Make sure to leave room for a :guilabel:`sand bag` stockpile near
+  the producing Glass Furnaces. Sand bags are located at the bottom of
   the :guilabel:`Furniture/Siege Ammo` menu.
 * On each of the three production Glass Furnaces, set up a production
   run of 150 :guilabel:`Make green glass tube` and :guilabel:`Make
   enormous green glass corkscrew`.
-* On the five spam Glass Furnaces, order :guilabel:`Collect Sand` with
+* On the five spare Glass Furnaces, order :guilabel:`Collect Sand` with
   a Workflow limit of 25-30 :guilabel:`powder of any sand`. It's
   important to keep sand bags available or glass production will cease.
 * Sand collection and storage requires lots of bags, so increase the
@@ -647,7 +649,7 @@ ensure that:
   output tile for maintenance and installation.
 
 It helps to visualize what we need to do. The animation below outlines
-the process of digging the pump stack casing.
+the pump stack construction process.
 
 .. image:: images/Magma-Tut-5_4-Stacks.gif
    :align: center
@@ -658,29 +660,35 @@ We'll use a modified design from the one above:
    :align: center
    :alt: Designated - Bottom
 
-.. image:: images/Magma-Tut-5_6-Stacks.png
+.. figure:: images/Magma-Tut-5_6-Stacks.png
    :align: center
    :alt: Designated - Top
+
+   Designated
 
 .. image:: images/Magma-Tut-5_7-Stacks.png
    :align: center
    :alt: Dug out - Bottom
 
-.. image:: images/Magma-Tut-5_8-Stacks.png
+.. figure:: images/Magma-Tut-5_8-Stacks.png
    :align: center
    :alt: Dug out - Top
+
+   Dug out
 
 .. image:: images/Magma-Tut-5_9-Stacks.png
    :align: center
    :alt: Populated - Bottom
 
-.. image:: images/Magma-Tut-5_10-Stacks.png
+.. figure:: images/Magma-Tut-5_10-Stacks.png
    :align: center
    :alt: Populated - Top
 
+   Populated
+
 Some notes about the design:
 
-* Our design incorporates â€¼Scienceâ€¼ to mitigate framerate loss. Pump
+* Our design incorporates !!Science!! to mitigate framerate loss. Pump
   stacks are notorious for plunging the game's framerate into single
   digits, so we've used a 3x1 output zone for each pump instead of the
   previous illustrations' 1x1 zone.
@@ -760,7 +768,7 @@ utility to do it all for us, and today is your lucky day - I've
 committed our pump stack design to a series of blueprints using the
 Picturefort utility so you don't have to!
 
-* Download Pump Stack - Quickfort - DF Magma Tutorial.xlsx to a
+* Extract Pump Stack - Quickfort - DF Magma Tutorial.xlsx to a
   convenient location. We will use this file as a blueprint to dig the
   casing and place the pumps and doors.
 * Run the Quickfort utility from the DF Starter Pack window, found in
@@ -770,7 +778,7 @@ Picturefort utility so you don't have to!
   exit it entirely with :kbd:`Shift+Alt+X`.
 * Go back to the Dwarf Fortress window. Hit :kbd:`d` and place your
   cursor on the :guilabel:`Up/Down Staircase` on z-level -124, directly
-  over the first two levels of pump stack casing.
+  above the first two levels of pump stack casing.
 * Hit :kbd:`Alt+F` and open Pump Stack - Quickfort - DF Magma
   Tutorial.xlsx from the convenient location you extracted it to. Then
   select Pump Stack - Dig from the list on the left and click OK.
@@ -786,7 +794,7 @@ all this by hand. 'You kids have it too easy,' they'd tell ya, 'makes
 ya soft and complacent!' But we digress - let's finish digging out the
 pump stack casing.
 
-Our macro has two steps - first it digs the 'Lower'-type pump stack,
+Our macro has three steps - first it digs the 'Lower'-type pump stack,
 then it moves up a level and digs the 'Upper'-type pump stack, and
 finally moves up another level to be ready for the next operation. Our
 job is to ensure that we start each operation on a fresh, undesignated
@@ -799,7 +807,7 @@ will not work.
 * Hit :kbd:`d` to activate :guilabel:`Mine` mode, and hit
   :kbd:`Alt+D`. Quickfort will designate two levels to be dug out and
   spit the cursor out on the fresh layer above the top level designated.
-* Ensure that the cursor is resting on the :guilabel:`Up/Down Stair
+* Ensure that the cursor is resting on the :guilabel:`Up/Down Stair`
   where Quickfort spit it out (just don't move it). Hit :kbd:`Alt+D`
   again to execute another two levels.
 * Continue hitting :kbd:`Alt+D` in this manner until we end up on
@@ -899,8 +907,7 @@ stack. Therefore, we need to forbid all non-quartzite doors and blocks.
 * Do the same for blocks.
 * We can check our success by starting to build a pump/door and
   verifying that quartzite is the only option for either.
-* Build the pump stack. Ensure that you start on a 'Lower'-type level
-  with the 3x1 output chamber to the right.
+* Build the pump stack using Quickfort. Ensure that you start on a 'Lower'-type level with the 3x1 output chamber to the right.
 * Hit :kbd:`Alt+F`, load Pump Stack - Quickfort - DF Magma
   Tutorial.xlsx, and select Pump Stack - Build from the menu on the left.
 * Read the tooltip instructions, hit :kbd:`b`, :kbd:`o`, place the
@@ -927,8 +934,8 @@ water on the map is the river in the northwest, which is exposed to
 invaders. Another option is to create an artificial underground river
 that empties into the caverns, but these only work well with low-flow
 sources like aquifers (that's right - aquifers are useful!).
-Unfortunately, the high flow rate of our river will break the game's
-water flow model, resulting in no power.
+Unfortunately, the high flow rate of our river will overwhelm the game's
+water flow model in an artificial channel, resulting in no power.
 
 We will install about 30 :guilabel:`Water Wheels` (:kbd:`b`, :kbd:`M`,
 :kbd:`w`) along the river. This almost certainly is overkill - 17
@@ -1064,8 +1071,8 @@ teens! Turn off the pumps to fix that, by the way.
 
 Surface magma is the key to true mass production of steel, glass, and
 clay products. We can also weaponize it to burn our enemies into
-:guilabel:`Piles of Ash`(search the internet for :guilabel:`Magma
-Mist`), combine it with water to create :guilabel:`obsidian`, or make
+:guilabel:`Piles of Ash` (see :wiki:` magma mist <Magma_mist>`),
+combine it with water to create :guilabel:`obsidian`, or make
 an awesome magma moat. Let's start by relocating our smelting,
 forging, glassmaking, and kilns to the magma factory floor and setting
 up steel production.
@@ -1100,7 +1107,7 @@ start converting my outdoor garden to a greenhouse with the addition
 of a roof made from :guilabel:`Clear Glass` blocks. No more pesky
 goblins digging in my potatoes!
 
-.. image:: images/Magma-Tut-7_6-Tower-of-Babel.png
+.. image:: images/Magma-Tut-7_7-Tower-of-Babel.png
    :align: center
 
 My steel production is coming along so well that I've had to clear cut
