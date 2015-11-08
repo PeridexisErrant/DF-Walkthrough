@@ -406,6 +406,9 @@ Once it’s up it’s time to get it producing some useful items:
   four times.
 * :kbd:`a` for add task, then :kbd:`t` for table, do this twice.
 * :kbd:`a` for add task, then :kbd:`c` for chair, do this twice.
+  Note that in DF, a chair made from stone is called a :guilabel:`throne`.
+  They're not the only thing to have different names depending on the
+  material, so if in doubt check the wiki.
 
 Wee! Look at all that lovely furniture queued up! Soon our mason will
 turn up and start cutting blocks of stone into something more useful.
