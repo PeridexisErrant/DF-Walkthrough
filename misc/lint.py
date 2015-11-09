@@ -58,8 +58,9 @@ def unused_images(path):
             img = basename(img)
             if img == 'Thumbs.db':
                 continue
-            markup = '.. image:: images/{}'.format(img)
-            if markup not in text:
+            img_markup = '.. image:: images/{}'.format(img)
+            fig_markup = '.. figure:: images/{}'.format(img)
+            if img_markup not in text and fig_markup not in text:
                 failed = True
                 print('Error: not referenced: "{}/images/{}"'.format(d, img))
     if failed:

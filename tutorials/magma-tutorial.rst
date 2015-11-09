@@ -907,7 +907,8 @@ stack. Therefore, we need to forbid all non-quartzite doors and blocks.
 * Do the same for blocks.
 * We can check our success by starting to build a pump/door and
   verifying that quartzite is the only option for either.
-* Build the pump stack using Quickfort. Ensure that you start on a 'Lower'-type level with the 3x1 output chamber to the right.
+* Build the pump stack using Quickfort. Ensure that you start on a
+  'Lower'-type level with the 3x1 output chamber to the right.
 * Hit :kbd:`Alt+F`, load Pump Stack - Quickfort - DF Magma
   Tutorial.xlsx, and select Pump Stack - Build from the menu on the left.
 * Read the tooltip instructions, hit :kbd:`b`, :kbd:`o`, place the
