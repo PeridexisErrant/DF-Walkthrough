@@ -43,9 +43,11 @@ lets you set squad weapons. We're going to aim for two squads of three
 dwarves. Smaller squads helps your response time to enemy threat and
 gives you a bit more control. Lets get on with it:
 
-* Scroll to one of your no-life peasant dwarves, hit :kbd:`Enter`. Now when
-  you move your arrow you will see the peasant is marked and there's an
-  arrow to chose another dwarf. Chose another pleb, hit :kbd:`Enter`.
+* Hit :kbd:`c` to create a squad, and using metal armour.
+  (You *did* make the iron armour in chapter 6, right?)
+* Scroll left then down with the arrow keys, to one of your no-life peasant
+  dwarves, hit :kbd:`Enter`. You will see the peasant is marked and you
+  can chose another dwarf. Chose another pleb, hit :kbd:`Enter`.
 * Scroll, chose another dwarf, and hit :kbd:`Enter` again.
 * Hit space to stop promoting. We've created our first squad.
 * Chose another spare peasant, hit :kbd:`Enter` to promote and then choosing
