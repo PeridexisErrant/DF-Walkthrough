@@ -23,21 +23,13 @@ if "%1" == "help" (
 	echo.  singlehtml to make a single large HTML file
 	echo.  pickle     to make pickle files
 	echo.  json       to make JSON files
-	echo.  htmlhelp   to make HTML files and a HTML help project
-	echo.  qthelp     to make HTML files and a qthelp project
-	echo.  devhelp    to make HTML files and a Devhelp project
 	echo.  epub       to make an epub
 	echo.  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter
 	echo.  text       to make text files
-	echo.  man        to make manual pages
-	echo.  texinfo    to make Texinfo files
-	echo.  gettext    to make PO message catalogs
 	echo.  changes    to make an overview over all changed/added/deprecated items
 	echo.  xml        to make Docutils-native XML files
 	echo.  pseudoxml  to make pseudoxml-XML files for display purposes
 	echo.  linkcheck  to check all external links for integrity
-	echo.  doctest    to run all doctests embedded in the documentation if enabled
-	echo.  coverage   to run coverage check of the documentation if enabled
 	goto end
 )
 
@@ -112,35 +104,6 @@ if "%1" == "json" (
 	goto end
 )
 
-if "%1" == "htmlhelp" (
-	%SPHINXBUILD% -b htmlhelp %ALLSPHINXOPTS% %BUILDDIR%/htmlhelp
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Build finished; now you can run HTML Help Workshop with the ^
-.hhp project file in %BUILDDIR%/htmlhelp.
-	goto end
-)
-
-if "%1" == "qthelp" (
-	%SPHINXBUILD% -b qthelp %ALLSPHINXOPTS% %BUILDDIR%/qthelp
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Build finished; now you can run "qcollectiongenerator" with the ^
-.qhcp project file in %BUILDDIR%/qthelp, like this:
-	echo.^> qcollectiongenerator %BUILDDIR%\qthelp\PeridexisErrantsDFWalkthrough.qhcp
-	echo.To view the help file:
-	echo.^> assistant -collectionFile %BUILDDIR%\qthelp\PeridexisErrantsDFWalkthrough.ghc
-	goto end
-)
-
-if "%1" == "devhelp" (
-	%SPHINXBUILD% -b devhelp %ALLSPHINXOPTS% %BUILDDIR%/devhelp
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Build finished.
-	goto end
-)
-
 if "%1" == "epub" (
 	%SPHINXBUILD% -b epub %ALLSPHINXOPTS% %BUILDDIR%/epub
 	if errorlevel 1 exit /b 1
@@ -167,45 +130,11 @@ if "%1" == "latexpdf" (
 	goto end
 )
 
-if "%1" == "latexpdfja" (
-	%SPHINXBUILD% -b latex %ALLSPHINXOPTS% %BUILDDIR%/latex
-	cd %BUILDDIR%/latex
-	make all-pdf-ja
-	cd %~dp0
-	echo.
-	echo.Build finished; the PDF files are in %BUILDDIR%/latex.
-	goto end
-)
-
 if "%1" == "text" (
 	%SPHINXBUILD% -b text %ALLSPHINXOPTS% %BUILDDIR%/text
 	if errorlevel 1 exit /b 1
 	echo.
 	echo.Build finished. The text files are in %BUILDDIR%/text.
-	goto end
-)
-
-if "%1" == "man" (
-	%SPHINXBUILD% -b man %ALLSPHINXOPTS% %BUILDDIR%/man
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Build finished. The manual pages are in %BUILDDIR%/man.
-	goto end
-)
-
-if "%1" == "texinfo" (
-	%SPHINXBUILD% -b texinfo %ALLSPHINXOPTS% %BUILDDIR%/texinfo
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Build finished. The Texinfo files are in %BUILDDIR%/texinfo.
-	goto end
-)
-
-if "%1" == "gettext" (
-	%SPHINXBUILD% -b gettext %I18NSPHINXOPTS% %BUILDDIR%/locale
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Build finished. The message catalogs are in %BUILDDIR%/locale.
 	goto end
 )
 
@@ -223,24 +152,6 @@ if "%1" == "linkcheck" (
 	echo.
 	echo.Link check complete; look for any errors in the above output ^
 or in %BUILDDIR%/linkcheck/output.txt.
-	goto end
-)
-
-if "%1" == "doctest" (
-	%SPHINXBUILD% -b doctest %ALLSPHINXOPTS% %BUILDDIR%/doctest
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Testing of doctests in the sources finished, look at the ^
-results in %BUILDDIR%/doctest/output.txt.
-	goto end
-)
-
-if "%1" == "coverage" (
-	%SPHINXBUILD% -b coverage %ALLSPHINXOPTS% %BUILDDIR%/coverage
-	if errorlevel 1 exit /b 1
-	echo.
-	echo.Testing of coverage in the sources finished, look at the ^
-results in %BUILDDIR%/coverage/python.txt.
 	goto end
 )
 
