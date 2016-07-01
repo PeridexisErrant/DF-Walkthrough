@@ -82,7 +82,7 @@ A few seconds later, the workshop is built!
 It doesn’t look like much, but it’s really useful! I promise! So lets
 get turning some of this lumber into stuff our dwarfs can use. Just
 don’t tell the Elves, ok? They really hate us chopping down trees.
-Pointy-eared gits, a magma-steam death is to good for them!
+Pointy-eared gits, a magma-steam death is too good for them!
 
 Making beds
 ===========
