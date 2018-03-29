@@ -354,7 +354,7 @@ you’ve set wood to be chopped and plants to be gathered and you know
 how to do some basic digging! You’ve come far!
 
 Before reading Chapter 2, how about setting some more plants to be gathered
-and more wood to be chopped. Then, head `to the next instalment <chapter02>`
+and more wood to be chopped. Then, head `to the next installment <chapter02>`
 and we’ll learn all about workshops, bedrooms, dinning rooms and stairs! It
 will be ever so exciting, I promise!
 
